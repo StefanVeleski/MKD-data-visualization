@@ -1,6 +1,6 @@
 # MKD-data-visualization
 
-This repository contains a series of visualizations and analyses of data about North Macedonia. The analyses of the data are fully reproducible, although there is a fair bit of manual data wrangling (mostly done in MS Excel) performed on the data to get it the final shape used in the analyses.
+This repository contains a series of visualizations and analyses of data about North Macedonia. The analyses of the data are fully reproducible, although there is a fair bit of manual data wrangling (mostly done in MS Excel) performed on the data to get it to the final shape that is used in the analyses.
 
 The visualizations are posted on Reddit every week (usually on Wednesday). Links to previous posts:
 
