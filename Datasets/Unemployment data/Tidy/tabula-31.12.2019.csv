@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,540,541,Macedonian,2019
+Bitola,1788,1707,Macedonian,2019
+Valandovo,156,224,Macedonian,2019
+Veles,1311,1298,Macedonian,2019
+Vinica,125,206,Macedonian,2019
+Gevgelija,358,443,Macedonian,2019
+Gostivar,664,704,Macedonian,2019
+Debar,86,47,Macedonian,2019
+Delchevo,516,514,Macedonian,2019
+Demir Hisar,338,353,Macedonian,2019
+Kavadarci,736,586,Macedonian,2019
+Kichevo,495,569,Macedonian,2019
+Kochani,848,1235,Macedonian,2019
+Kratovo,281,242,Macedonian,2019
+Kriva Palanka,1255,963,Macedonian,2019
+Krushevo,256,296,Macedonian,2019
+Kumanovo,2217,2052,Macedonian,2019
+Makedonski Brod,441,477,Macedonian,2019
+Negotino,403,530,Macedonian,2019
+Ohrid,991,1098,Macedonian,2019
+Prilep,2337,2709,Macedonian,2019
+Probishtip,423,514,Macedonian,2019
+Radovish,471,471,Macedonian,2019
+Resen,396,537,Macedonian,2019
+Sveti Nikole,425,630,Macedonian,2019
+Skopje,2977,2835,Macedonian,2019
+Struga,760,744,Macedonian,2019
+Strumica,1126,1180,Macedonian,2019
+Tetovo,1349,1277,Macedonian,2019
+Shtip,879,882,Macedonian,2019
+Berovo ,2,0,Albanian,2019
+Bitola,114,111,Albanian,2019
+Valandovo,0,1,Albanian,2019
+Veles,276,325,Albanian,2019
+Vinica,0,0,Albanian,2019
+Gevgelija,1,0,Albanian,2019
+Gostivar,1745,1860,Albanian,2019
+Debar,406,404,Albanian,2019
+Delchevo,4,0,Albanian,2019
+Demir Hisar,13,13,Albanian,2019
+Kavadarci,3,0,Albanian,2019
+Kichevo,415,474,Albanian,2019
+Kochani,1,0,Albanian,2019
+Kratovo,0,0,Albanian,2019
+Kriva Palanka,1,0,Albanian,2019
+Krushevo,129,163,Albanian,2019
+Kumanovo,3195,3102,Albanian,2019
+Makedonski Brod,12,0,Albanian,2019
+Negotino,2,0,Albanian,2019
+Ohrid,69,74,Albanian,2019
+Prilep,138,147,Albanian,2019
+Probishtip,1,0,Albanian,2019
+Radovish,1,0,Albanian,2019
+Resen,44,60,Albanian,2019
+Sveti Nikole,1,4,Albanian,2019
+Skopje,4305,4373,Albanian,2019
+Struga,502,568,Albanian,2019
+Strumica,0,0,Albanian,2019
+Tetovo,4273,5276,Albanian,2019
+Shtip,0,2,Albanian,2019
+Berovo ,20,14,Turkish,2019
+Bitola,83,61,Turkish,2019
+Valandovo,40,51,Turkish,2019
+Veles,101,89,Turkish,2019
+Vinica,2,11,Turkish,2019
+Gevgelija,12,17,Turkish,2019
+Gostivar,284,412,Turkish,2019
+Debar,179,198,Turkish,2019
+Delchevo,5,3,Turkish,2019
+Demir Hisar,2,1,Turkish,2019
+Kavadarci,8,3,Turkish,2019
+Kichevo,161,166,Turkish,2019
+Kochani,9,6,Turkish,2019
+Kratovo,0,0,Turkish,2019
+Kriva Palanka,0,0,Turkish,2019
+Krushevo,19,16,Turkish,2019
+Kumanovo,8,16,Turkish,2019
+Makedonski Brod,158,168,Turkish,2019
+Negotino,7,11,Turkish,2019
+Ohrid,60,66,Turkish,2019
+Prilep,113,154,Turkish,2019
+Probishtip,1,0,Turkish,2019
+Radovish,455,423,Turkish,2019
+Resen,46,74,Turkish,2019
+Sveti Nikole,5,7,Turkish,2019
+Skopje,108,169,Turkish,2019
+Struga,21,27,Turkish,2019
+Strumica,879,878,Turkish,2019
+Tetovo,30,46,Turkish,2019
+Shtip,49,60,Turkish,2019
+Berovo ,98,97,Roma,2019
+Bitola,351,339,Roma,2019
+Valandovo,1,1,Roma,2019
+Veles,80,78,Roma,2019
+Vinica,114,99,Roma,2019
+Gevgelija,6,8,Roma,2019
+Gostivar,290,312,Roma,2019
+Debar,167,217,Roma,2019
+Delchevo,42,44,Roma,2019
+Demir Hisar,0,0,Roma,2019
+Kavadarci,69,65,Roma,2019
+Kichevo,195,222,Roma,2019
+Kochani,190,197,Roma,2019
+Kratovo,13,11,Roma,2019
+Kriva Palanka,62,66,Roma,2019
+Krushevo,4,5,Roma,2019
+Kumanovo,405,442,Roma,2019
+Makedonski Brod,0,0,Roma,2019
+Negotino,14,21,Roma,2019
+Ohrid,25,30,Roma,2019
+Prilep,561,522,Roma,2019
+Probishtip,1,1,Roma,2019
+Radovish,13,11,Roma,2019
+Resen,47,47,Roma,2019
+Sveti Nikole,5,8,Roma,2019
+Skopje,1504,1378,Roma,2019
+Struga,24,17,Roma,2019
+Strumica,20,8,Roma,2019
+Tetovo,118,135,Roma,2019
+Shtip,213,226,Roma,2019
+Berovo ,3,0,Serbian,2019
+Bitola,5,1,Serbian,2019
+Valandovo,4,16,Serbian,2019
+Veles,2,4,Serbian,2019
+Vinica,0,1,Serbian,2019
+Gevgelija,2,13,Serbian,2019
+Gostivar,1,1,Serbian,2019
+Debar,0,0,Serbian,2019
+Delchevo,0,0,Serbian,2019
+Demir Hisar,1,0,Serbian,2019
+Kavadarci,4,7,Serbian,2019
+Kichevo,3,1,Serbian,2019
+Kochani,0,0,Serbian,2019
+Kratovo,0,0,Serbian,2019
+Kriva Palanka,2,2,Serbian,2019
+Krushevo,0,0,Serbian,2019
+Kumanovo,160,211,Serbian,2019
+Makedonski Brod,0,0,Serbian,2019
+Negotino,3,3,Serbian,2019
+Ohrid,2,3,Serbian,2019
+Prilep,3,1,Serbian,2019
+Probishtip,1,0,Serbian,2019
+Radovish,0,2,Serbian,2019
+Resen,1,7,Serbian,2019
+Sveti Nikole,1,0,Serbian,2019
+Skopje,37,65,Serbian,2019
+Struga,1,2,Serbian,2019
+Strumica,2,2,Serbian,2019
+Tetovo,7,10,Serbian,2019
+Shtip,5,2,Serbian,2019
+Berovo ,0,0,Vlachs,2019
+Bitola,6,7,Vlachs,2019
+Valandovo,0,0,Vlachs,2019
+Veles,0,0,Vlachs,2019
+Vinica,0,2,Vlachs,2019
+Gevgelija,0,0,Vlachs,2019
+Gostivar,0,0,Vlachs,2019
+Debar,0,0,Vlachs,2019
+Delchevo,0,0,Vlachs,2019
+Demir Hisar,0,0,Vlachs,2019
+Kavadarci,1,0,Vlachs,2019
+Kichevo,0,1,Vlachs,2019
+Kochani,1,1,Vlachs,2019
+Kratovo,0,0,Vlachs,2019
+Kriva Palanka,0,0,Vlachs,2019
+Krushevo,35,36,Vlachs,2019
+Kumanovo,0,0,Vlachs,2019
+Makedonski Brod,0,0,Vlachs,2019
+Negotino,0,0,Vlachs,2019
+Ohrid,0,0,Vlachs,2019
+Prilep,1,0,Vlachs,2019
+Probishtip,0,0,Vlachs,2019
+Radovish,0,0,Vlachs,2019
+Resen,0,0,Vlachs,2019
+Sveti Nikole,3,2,Vlachs,2019
+Skopje,6,6,Vlachs,2019
+Struga,0,1,Vlachs,2019
+Strumica,0,0,Vlachs,2019
+Tetovo,0,0,Vlachs,2019
+Shtip,34,30,Vlachs,2019
+Berovo ,0,0,Bosniak,2019
+Bitola,1,0,Bosniak,2019
+Valandovo,0,0,Bosniak,2019
+Veles,22,25,Bosniak,2019
+Vinica,0,0,Bosniak,2019
+Gevgelija,0,0,Bosniak,2019
+Gostivar,3,0,Bosniak,2019
+Debar,1,0,Bosniak,2019
+Delchevo,0,0,Bosniak,2019
+Demir Hisar,0,0,Bosniak,2019
+Kavadarci,1,0,Bosniak,2019
+Kichevo,0,2,Bosniak,2019
+Kochani,0,0,Bosniak,2019
+Kratovo,0,0,Bosniak,2019
+Kriva Palanka,0,0,Bosniak,2019
+Krushevo,7,0,Bosniak,2019
+Kumanovo,1,0,Bosniak,2019
+Makedonski Brod,0,0,Bosniak,2019
+Negotino,0,0,Bosniak,2019
+Ohrid,0,0,Bosniak,2019
+Prilep,44,45,Bosniak,2019
+Probishtip,0,0,Bosniak,2019
+Radovish,0,0,Bosniak,2019
+Resen,0,0,Bosniak,2019
+Sveti Nikole,0,1,Bosniak,2019
+Skopje,63,50,Bosniak,2019
+Struga,0,1,Bosniak,2019
+Strumica,0,0,Bosniak,2019
+Tetovo,1,0,Bosniak,2019
+Shtip,2,0,Bosniak,2019
+Berovo ,4,0,Other,2019
+Bitola,40,46,Other,2019
+Valandovo,1,3,Other,2019
+Veles,96,127,Other,2019
+Vinica,0,3,Other,2019
+Gevgelija,1,3,Other,2019
+Gostivar,188,213,Other,2019
+Debar,170,229,Other,2019
+Delchevo,3,0,Other,2019
+Demir Hisar,0,0,Other,2019
+Kavadarci,4,3,Other,2019
+Kichevo,17,31,Other,2019
+Kochani,0,1,Other,2019
+Kratovo,1,0,Other,2019
+Kriva Palanka,3,1,Other,2019
+Krushevo,9,10,Other,2019
+Kumanovo,14,10,Other,2019
+Makedonski Brod,1,0,Other,2019
+Negotino,5,9,Other,2019
+Ohrid,83,81,Other,2019
+Prilep,16,19,Other,2019
+Probishtip,3,0,Other,2019
+Radovish,1,0,Other,2019
+Resen,24,18,Other,2019
+Sveti Nikole,1,3,Other,2019
+Skopje,136,107,Other,2019
+Struga,85,124,Other,2019
+Strumica,4,6,Other,2019
+Tetovo,23,26,Other,2019
+Shtip,12,10,Other,2019

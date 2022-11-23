@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,1198,1488,Macedonian,2012
+Bitola,6904,6676,Macedonian,2012
+Valandovo,453,774,Macedonian,2012
+Veles,4121,4767,Macedonian,2012
+Vinica,836,1305,Macedonian,2012
+Gevgelija,1188,1449,Macedonian,2012
+Gostivar,1507,1585,Macedonian,2012
+Debar,51,61,Macedonian,2012
+Delchevo,1571,2228,Macedonian,2012
+Demir Hisar,742,789,Macedonian,2012
+Kavadarci,3265,3254,Macedonian,2012
+Kichevo,1737,1682,Macedonian,2012
+Kochani,2492,4266,Macedonian,2012
+Kratovo,810,898,Macedonian,2012
+Kriva Palanka,2569,2618,Macedonian,2012
+Krushevo,555,631,Macedonian,2012
+Kumanovo,5058,5240,Macedonian,2012
+Makedonski Brod,825,844,Macedonian,2012
+Negotino,1157,1257,Macedonian,2012
+Ohrid,3736,3764,Macedonian,2012
+Prilep,7017,7537,Macedonian,2012
+Probishtip,1178,1424,Macedonian,2012
+Radovish,1645,2065,Macedonian,2012
+Resen,832,1026,Macedonian,2012
+Sveti Nikole,1420,2295,Macedonian,2012
+Skopje,15234,13548,Macedonian,2012
+Struga,1648,2009,Macedonian,2012
+Strumica,5176,6230,Macedonian,2012
+Tetovo,1995,2576,Macedonian,2012
+Shtip,1789,2797,Macedonian,2012
+Berovo ,1,0,Albanian,2012
+Bitola,329,413,Albanian,2012
+Valandovo,0,2,Albanian,2012
+Veles,229,502,Albanian,2012
+Vinica,0,0,Albanian,2012
+Gevgelija,1,3,Albanian,2012
+Gostivar,1387,3905,Albanian,2012
+Debar,597,772,Albanian,2012
+Delchevo,0,0,Albanian,2012
+Demir Hisar,16,25,Albanian,2012
+Kavadarci,4,1,Albanian,2012
+Kichevo,921,1378,Albanian,2012
+Kochani,2,0,Albanian,2012
+Kratovo,0,0,Albanian,2012
+Kriva Palanka,1,0,Albanian,2012
+Krushevo,33,205,Albanian,2012
+Kumanovo,2943,4809,Albanian,2012
+Makedonski Brod,13,1,Albanian,2012
+Negotino,4,0,Albanian,2012
+Ohrid,174,192,Albanian,2012
+Prilep,116,210,Albanian,2012
+Probishtip,0,0,Albanian,2012
+Radovish,1,1,Albanian,2012
+Resen,59,98,Albanian,2012
+Sveti Nikole,2,7,Albanian,2012
+Skopje,3875,9715,Albanian,2012
+Struga,806,1626,Albanian,2012
+Strumica,1,0,Albanian,2012
+Tetovo,4756,11273,Albanian,2012
+Shtip,1,3,Albanian,2012
+Berovo ,40,56,Turkish,2012
+Bitola,201,196,Turkish,2012
+Valandovo,87,188,Turkish,2012
+Veles,176,222,Turkish,2012
+Vinica,6,16,Turkish,2012
+Gevgelija,8,21,Turkish,2012
+Gostivar,136,651,Turkish,2012
+Debar,174,450,Turkish,2012
+Delchevo,8,4,Turkish,2012
+Demir Hisar,4,3,Turkish,2012
+Kavadarci,7,6,Turkish,2012
+Kichevo,285,461,Turkish,2012
+Kochani,3,7,Turkish,2012
+Kratovo,0,0,Turkish,2012
+Kriva Palanka,0,0,Turkish,2012
+Krushevo,7,27,Turkish,2012
+Kumanovo,8,33,Turkish,2012
+Makedonski Brod,139,283,Turkish,2012
+Negotino,10,19,Turkish,2012
+Ohrid,127,189,Turkish,2012
+Prilep,137,312,Turkish,2012
+Probishtip,0,0,Turkish,2012
+Radovish,204,539,Turkish,2012
+Resen,76,138,Turkish,2012
+Sveti Nikole,14,20,Turkish,2012
+Skopje,266,366,Turkish,2012
+Struga,47,77,Turkish,2012
+Strumica,755,1417,Turkish,2012
+Tetovo,33,99,Turkish,2012
+Shtip,80,230,Turkish,2012
+Berovo ,88,117,Roma,2012
+Bitola,256,222,Roma,2012
+Valandovo,2,1,Roma,2012
+Veles,77,90,Roma,2012
+Vinica,100,131,Roma,2012
+Gevgelija,4,8,Roma,2012
+Gostivar,158,379,Roma,2012
+Debar,150,262,Roma,2012
+Delchevo,79,95,Roma,2012
+Demir Hisar,0,0,Roma,2012
+Kavadarci,47,102,Roma,2012
+Kichevo,183,391,Roma,2012
+Kochani,135,216,Roma,2012
+Kratovo,17,26,Roma,2012
+Kriva Palanka,70,80,Roma,2012
+Krushevo,3,7,Roma,2012
+Kumanovo,151,197,Roma,2012
+Makedonski Brod,0,0,Roma,2012
+Negotino,4,12,Roma,2012
+Ohrid,118,86,Roma,2012
+Prilep,646,674,Roma,2012
+Probishtip,1,2,Roma,2012
+Radovish,8,5,Roma,2012
+Resen,23,40,Roma,2012
+Sveti Nikole,10,10,Roma,2012
+Skopje,1057,1663,Roma,2012
+Struga,18,38,Roma,2012
+Strumica,8,0,Roma,2012
+Tetovo,120,247,Roma,2012
+Shtip,176,227,Roma,2012
+Berovo ,2,0,Serbian,2012
+Bitola,12,24,Serbian,2012
+Valandovo,33,86,Serbian,2012
+Veles,5,28,Serbian,2012
+Vinica,1,0,Serbian,2012
+Gevgelija,26,49,Serbian,2012
+Gostivar,7,8,Serbian,2012
+Debar,3,2,Serbian,2012
+Delchevo,4,3,Serbian,2012
+Demir Hisar,0,0,Serbian,2012
+Kavadarci,13,28,Serbian,2012
+Kichevo,4,6,Serbian,2012
+Kochani,2,3,Serbian,2012
+Kratovo,1,0,Serbian,2012
+Kriva Palanka,4,3,Serbian,2012
+Krushevo,1,3,Serbian,2012
+Kumanovo,398,565,Serbian,2012
+Makedonski Brod,0,2,Serbian,2012
+Negotino,2,13,Serbian,2012
+Ohrid,12,12,Serbian,2012
+Prilep,6,4,Serbian,2012
+Probishtip,2,4,Serbian,2012
+Radovish,4,10,Serbian,2012
+Resen,0,11,Serbian,2012
+Sveti Nikole,1,5,Serbian,2012
+Skopje,192,205,Serbian,2012
+Struga,2,10,Serbian,2012
+Strumica,4,5,Serbian,2012
+Tetovo,12,26,Serbian,2012
+Shtip,6,11,Serbian,2012
+Berovo ,0,0,Vlachs,2012
+Bitola,6,11,Vlachs,2012
+Valandovo,0,0,Vlachs,2012
+Veles,2,0,Vlachs,2012
+Vinica,1,1,Vlachs,2012
+Gevgelija,0,2,Vlachs,2012
+Gostivar,0,0,Vlachs,2012
+Debar,0,0,Vlachs,2012
+Delchevo,0,0,Vlachs,2012
+Demir Hisar,0,0,Vlachs,2012
+Kavadarci,0,0,Vlachs,2012
+Kichevo,0,2,Vlachs,2012
+Kochani,3,4,Vlachs,2012
+Kratovo,0,0,Vlachs,2012
+Kriva Palanka,0,0,Vlachs,2012
+Krushevo,47,72,Vlachs,2012
+Kumanovo,5,2,Vlachs,2012
+Makedonski Brod,0,0,Vlachs,2012
+Negotino,0,0,Vlachs,2012
+Ohrid,3,0,Vlachs,2012
+Prilep,0,0,Vlachs,2012
+Probishtip,0,1,Vlachs,2012
+Radovish,0,1,Vlachs,2012
+Resen,0,1,Vlachs,2012
+Sveti Nikole,6,8,Vlachs,2012
+Skopje,6,4,Vlachs,2012
+Struga,2,3,Vlachs,2012
+Strumica,0,0,Vlachs,2012
+Tetovo,0,0,Vlachs,2012
+Shtip,41,74,Vlachs,2012
+Berovo ,0,0,Bosniak,2012
+Bitola,1,0,Bosniak,2012
+Valandovo,0,0,Bosniak,2012
+Veles,70,79,Bosniak,2012
+Vinica,0,0,Bosniak,2012
+Gevgelija,2,1,Bosniak,2012
+Gostivar,1,0,Bosniak,2012
+Debar,0,0,Bosniak,2012
+Delchevo,0,0,Bosniak,2012
+Demir Hisar,0,0,Bosniak,2012
+Kavadarci,0,1,Bosniak,2012
+Kichevo,0,1,Bosniak,2012
+Kochani,0,0,Bosniak,2012
+Kratovo,0,0,Bosniak,2012
+Kriva Palanka,0,0,Bosniak,2012
+Krushevo,4,3,Bosniak,2012
+Kumanovo,0,0,Bosniak,2012
+Makedonski Brod,0,1,Bosniak,2012
+Negotino,0,0,Bosniak,2012
+Ohrid,0,0,Bosniak,2012
+Prilep,51,57,Bosniak,2012
+Probishtip,0,0,Bosniak,2012
+Radovish,0,0,Bosniak,2012
+Resen,0,0,Bosniak,2012
+Sveti Nikole,1,1,Bosniak,2012
+Skopje,99,88,Bosniak,2012
+Struga,0,1,Bosniak,2012
+Strumica,0,0,Bosniak,2012
+Tetovo,0,3,Bosniak,2012
+Shtip,0,0,Bosniak,2012
+Berovo ,5,4,Other,2012
+Bitola,82,95,Other,2012
+Valandovo,6,7,Other,2012
+Veles,212,334,Other,2012
+Vinica,3,6,Other,2012
+Gevgelija,2,1,Other,2012
+Gostivar,135,524,Other,2012
+Debar,336,620,Other,2012
+Delchevo,6,2,Other,2012
+Demir Hisar,0,0,Other,2012
+Kavadarci,9,17,Other,2012
+Kichevo,40,91,Other,2012
+Kochani,4,9,Other,2012
+Kratovo,1,0,Other,2012
+Kriva Palanka,10,6,Other,2012
+Krushevo,9,24,Other,2012
+Kumanovo,28,26,Other,2012
+Makedonski Brod,1,3,Other,2012
+Negotino,9,7,Other,2012
+Ohrid,236,204,Other,2012
+Prilep,117,133,Other,2012
+Probishtip,3,3,Other,2012
+Radovish,10,5,Other,2012
+Resen,18,25,Other,2012
+Sveti Nikole,1,6,Other,2012
+Skopje,502,522,Other,2012
+Struga,206,601,Other,2012
+Strumica,17,29,Other,2012
+Tetovo,37,70,Other,2012
+Shtip,9,7,Other,2012

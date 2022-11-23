@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,1619,2107,Macedonian,2005
+Bitola,7651,8057,Macedonian,2005
+Valandovo,893,1422,Macedonian,2005
+Veles,6033,6621,Macedonian,2005
+Vinica,1301,1923,Macedonian,2005
+Gevgelija,1456,2477,Macedonian,2005
+Gostivar,1718,2103,Macedonian,2005
+Debar,48,59,Macedonian,2005
+Delchevo,1832,3102,Macedonian,2005
+Demir Hisar,895,1082,Macedonian,2005
+Kavadarci,3915,5039,Macedonian,2005
+Kichevo,1603,1792,Macedonian,2005
+Kochani,3913,6508,Macedonian,2005
+Kratovo,1065,1308,Macedonian,2005
+Kriva Palanka,2946,3725,Macedonian,2005
+Krushevo,721,955,Macedonian,2005
+Kumanovo,7484,8454,Macedonian,2005
+Makedonski Brod,933,1262,Macedonian,2005
+Negotino,1836,2537,Macedonian,2005
+Ohrid,4592,5207,Macedonian,2005
+Prilep,9678,11300,Macedonian,2005
+Probishtip,1763,2417,Macedonian,2005
+Radovish,2114,3512,Macedonian,2005
+Resen,899,1248,Macedonian,2005
+Sveti Nikole,2117,3100,Macedonian,2005
+Skopje,25798,23767,Macedonian,2005
+Struga,1787,2528,Macedonian,2005
+Strumica,8266,10218,Macedonian,2005
+Tetovo,1667,2384,Macedonian,2005
+Shtip,2513,4418,Macedonian,2005
+Berovo ,0,0,Albanian,2005
+Bitola,449,549,Albanian,2005
+Valandovo,1,2,Albanian,2005
+Veles,474,566,Albanian,2005
+Vinica,0,0,Albanian,2005
+Gevgelija,3,4,Albanian,2005
+Gostivar,2599,6917,Albanian,2005
+Debar,861,1104,Albanian,2005
+Delchevo,0,0,Albanian,2005
+Demir Hisar,17,34,Albanian,2005
+Kavadarci,0,0,Albanian,2005
+Kichevo,1133,1904,Albanian,2005
+Kochani,0,1,Albanian,2005
+Kratovo,0,0,Albanian,2005
+Kriva Palanka,0,1,Albanian,2005
+Krushevo,80,485,Albanian,2005
+Kumanovo,3839,6129,Albanian,2005
+Makedonski Brod,1,2,Albanian,2005
+Negotino,0,1,Albanian,2005
+Ohrid,246,289,Albanian,2005
+Prilep,278,338,Albanian,2005
+Probishtip,0,0,Albanian,2005
+Radovish,0,1,Albanian,2005
+Resen,94,170,Albanian,2005
+Sveti Nikole,4,13,Albanian,2005
+Skopje,6648,16607,Albanian,2005
+Struga,1411,2380,Albanian,2005
+Strumica,2,0,Albanian,2005
+Tetovo,7879,14365,Albanian,2005
+Shtip,0,2,Albanian,2005
+Berovo ,46,65,Turkish,2005
+Bitola,326,330,Turkish,2005
+Valandovo,238,286,Turkish,2005
+Veles,357,370,Turkish,2005
+Vinica,18,28,Turkish,2005
+Gevgelija,20,56,Turkish,2005
+Gostivar,261,1130,Turkish,2005
+Debar,223,806,Turkish,2005
+Delchevo,8,11,Turkish,2005
+Demir Hisar,3,4,Turkish,2005
+Kavadarci,6,9,Turkish,2005
+Kichevo,290,498,Turkish,2005
+Kochani,8,16,Turkish,2005
+Kratovo,1,0,Turkish,2005
+Kriva Palanka,0,0,Turkish,2005
+Krushevo,12,61,Turkish,2005
+Kumanovo,22,66,Turkish,2005
+Makedonski Brod,214,213,Turkish,2005
+Negotino,38,43,Turkish,2005
+Ohrid,179,253,Turkish,2005
+Prilep,420,697,Turkish,2005
+Probishtip,1,0,Turkish,2005
+Radovish,249,920,Turkish,2005
+Resen,141,216,Turkish,2005
+Sveti Nikole,27,45,Turkish,2005
+Skopje,425,622,Turkish,2005
+Struga,61,79,Turkish,2005
+Strumica,1331,1685,Turkish,2005
+Tetovo,91,182,Turkish,2005
+Shtip,80,275,Turkish,2005
+Berovo ,101,154,Roma,2005
+Bitola,441,418,Roma,2005
+Valandovo,2,1,Roma,2005
+Veles,145,153,Roma,2005
+Vinica,156,209,Roma,2005
+Gevgelija,3,11,Roma,2005
+Gostivar,215,465,Roma,2005
+Debar,177,322,Roma,2005
+Delchevo,55,98,Roma,2005
+Demir Hisar,0,0,Roma,2005
+Kavadarci,44,155,Roma,2005
+Kichevo,189,382,Roma,2005
+Kochani,268,449,Roma,2005
+Kratovo,23,39,Roma,2005
+Kriva Palanka,82,106,Roma,2005
+Krushevo,4,9,Roma,2005
+Kumanovo,458,701,Roma,2005
+Makedonski Brod,0,0,Roma,2005
+Negotino,32,31,Roma,2005
+Ohrid,180,174,Roma,2005
+Prilep,805,861,Roma,2005
+Probishtip,0,1,Roma,2005
+Radovish,2,6,Roma,2005
+Resen,43,55,Roma,2005
+Sveti Nikole,27,9,Roma,2005
+Skopje,2450,3620,Roma,2005
+Struga,41,56,Roma,2005
+Strumica,3,3,Roma,2005
+Tetovo,196,378,Roma,2005
+Shtip,315,391,Roma,2005
+Berovo ,2,2,Serbian,2005
+Bitola,16,22,Serbian,2005
+Valandovo,80,143,Serbian,2005
+Veles,22,53,Serbian,2005
+Vinica,0,0,Serbian,2005
+Gevgelija,49,84,Serbian,2005
+Gostivar,12,14,Serbian,2005
+Debar,4,2,Serbian,2005
+Delchevo,3,3,Serbian,2005
+Demir Hisar,0,0,Serbian,2005
+Kavadarci,16,43,Serbian,2005
+Kichevo,4,10,Serbian,2005
+Kochani,6,5,Serbian,2005
+Kratovo,1,0,Serbian,2005
+Kriva Palanka,2,5,Serbian,2005
+Krushevo,1,5,Serbian,2005
+Kumanovo,579,1022,Serbian,2005
+Makedonski Brod,0,0,Serbian,2005
+Negotino,10,32,Serbian,2005
+Ohrid,19,20,Serbian,2005
+Prilep,9,6,Serbian,2005
+Probishtip,1,3,Serbian,2005
+Radovish,6,12,Serbian,2005
+Resen,4,12,Serbian,2005
+Sveti Nikole,8,7,Serbian,2005
+Skopje,362,402,Serbian,2005
+Struga,3,7,Serbian,2005
+Strumica,6,12,Serbian,2005
+Tetovo,12,33,Serbian,2005
+Shtip,6,12,Serbian,2005
+Berovo ,0,0,Vlachs,2005
+Bitola,8,14,Vlachs,2005
+Valandovo,0,0,Vlachs,2005
+Veles,1,2,Vlachs,2005
+Vinica,1,5,Vlachs,2005
+Gevgelija,0,0,Vlachs,2005
+Gostivar,0,0,Vlachs,2005
+Debar,0,0,Vlachs,2005
+Delchevo,0,0,Vlachs,2005
+Demir Hisar,0,0,Vlachs,2005
+Kavadarci,0,0,Vlachs,2005
+Kichevo,0,0,Vlachs,2005
+Kochani,2,6,Vlachs,2005
+Kratovo,0,0,Vlachs,2005
+Kriva Palanka,0,0,Vlachs,2005
+Krushevo,54,102,Vlachs,2005
+Kumanovo,4,4,Vlachs,2005
+Makedonski Brod,0,0,Vlachs,2005
+Negotino,0,0,Vlachs,2005
+Ohrid,1,1,Vlachs,2005
+Prilep,0,0,Vlachs,2005
+Probishtip,0,0,Vlachs,2005
+Radovish,0,1,Vlachs,2005
+Resen,1,0,Vlachs,2005
+Sveti Nikole,5,6,Vlachs,2005
+Skopje,8,8,Vlachs,2005
+Struga,6,12,Vlachs,2005
+Strumica,0,0,Vlachs,2005
+Tetovo,0,0,Vlachs,2005
+Shtip,61,146,Vlachs,2005
+Berovo ,,,Bosniak,2005
+Bitola,,,Bosniak,2005
+Valandovo,,,Bosniak,2005
+Veles,,,Bosniak,2005
+Vinica,,,Bosniak,2005
+Gevgelija,,,Bosniak,2005
+Gostivar,,,Bosniak,2005
+Debar,,,Bosniak,2005
+Delchevo,,,Bosniak,2005
+Demir Hisar,,,Bosniak,2005
+Kavadarci,,,Bosniak,2005
+Kichevo,,,Bosniak,2005
+Kochani,,,Bosniak,2005
+Kratovo,,,Bosniak,2005
+Kriva Palanka,,,Bosniak,2005
+Krushevo,,,Bosniak,2005
+Kumanovo,,,Bosniak,2005
+Makedonski Brod,,,Bosniak,2005
+Negotino,,,Bosniak,2005
+Ohrid,,,Bosniak,2005
+Prilep,,,Bosniak,2005
+Probishtip,,,Bosniak,2005
+Radovish,,,Bosniak,2005
+Resen,,,Bosniak,2005
+Sveti Nikole,,,Bosniak,2005
+Skopje,,,Bosniak,2005
+Struga,,,Bosniak,2005
+Strumica,,,Bosniak,2005
+Tetovo,,,Bosniak,2005
+Shtip,,,Bosniak,2005
+Berovo ,11,9,Other,2005
+Bitola,135,179,Other,2005
+Valandovo,5,9,Other,2005
+Veles,489,557,Other,2005
+Vinica,7,11,Other,2005
+Gevgelija,6,8,Other,2005
+Gostivar,324,789,Other,2005
+Debar,317,868,Other,2005
+Delchevo,8,9,Other,2005
+Demir Hisar,0,1,Other,2005
+Kavadarci,8,24,Other,2005
+Kichevo,39,126,Other,2005
+Kochani,10,16,Other,2005
+Kratovo,2,1,Other,2005
+Kriva Palanka,9,7,Other,2005
+Krushevo,56,110,Other,2005
+Kumanovo,40,53,Other,2005
+Makedonski Brod,8,12,Other,2005
+Negotino,18,23,Other,2005
+Ohrid,272,247,Other,2005
+Prilep,341,300,Other,2005
+Probishtip,4,6,Other,2005
+Radovish,15,14,Other,2005
+Resen,25,38,Other,2005
+Sveti Nikole,6,11,Other,2005
+Skopje,1026,1047,Other,2005
+Struga,262,723,Other,2005
+Strumica,28,35,Other,2005
+Tetovo,49,83,Other,2005
+Shtip,92,41,Other,2005

@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,566,530,Macedonian,2021
+Bitola,2037,1764,Macedonian,2021
+Valandovo,268,327,Macedonian,2021
+Veles,1458,1452,Macedonian,2021
+Vinica,200,282,Macedonian,2021
+Gevgelija,698,626,Macedonian,2021
+Gostivar,742,716,Macedonian,2021
+Debar,124,44,Macedonian,2021
+Delchevo,661,572,Macedonian,2021
+Demir Hisar,415,350,Macedonian,2021
+Kavadarci,861,644,Macedonian,2021
+Kichevo,565,571,Macedonian,2021
+Kochani,1102,1207,Macedonian,2021
+Kratovo,309,240,Macedonian,2021
+Kriva Palanka,1310,1021,Macedonian,2021
+Krushevo,321,288,Macedonian,2021
+Kumanovo,2518,2105,Macedonian,2021
+Makedonski Brod,396,449,Macedonian,2021
+Negotino,484,516,Macedonian,2021
+Ohrid,1297,1360,Macedonian,2021
+Prilep,2629,2940,Macedonian,2021
+Probishtip,530,464,Macedonian,2021
+Radovish,608,527,Macedonian,2021
+Resen,434,540,Macedonian,2021
+Sveti Nikole,645,647,Macedonian,2021
+Skopje,4082,4018,Macedonian,2021
+Struga,792,777,Macedonian,2021
+Strumica,1417,1385,Macedonian,2021
+Tetovo,1630,1355,Macedonian,2021
+Shtip,1120,996,Macedonian,2021
+Berovo ,2,0,Albanian,2021
+Bitola,163,138,Albanian,2021
+Valandovo,2,1,Albanian,2021
+Veles,424,407,Albanian,2021
+Vinica,0,0,Albanian,2021
+Gevgelija,6,3,Albanian,2021
+Gostivar,2933,2760,Albanian,2021
+Debar,557,483,Albanian,2021
+Delchevo,5,0,Albanian,2021
+Demir Hisar,16,12,Albanian,2021
+Kavadarci,3,0,Albanian,2021
+Kichevo,609,589,Albanian,2021
+Kochani,1,0,Albanian,2021
+Kratovo,1,0,Albanian,2021
+Kriva Palanka,1,0,Albanian,2021
+Krushevo,154,182,Albanian,2021
+Kumanovo,4110,3654,Albanian,2021
+Makedonski Brod,15,0,Albanian,2021
+Negotino,5,0,Albanian,2021
+Ohrid,87,102,Albanian,2021
+Prilep,213,192,Albanian,2021
+Probishtip,2,0,Albanian,2021
+Radovish,4,0,Albanian,2021
+Resen,64,78,Albanian,2021
+Sveti Nikole,5,2,Albanian,2021
+Skopje,7234,7039,Albanian,2021
+Struga,754,772,Albanian,2021
+Strumica,0,1,Albanian,2021
+Tetovo,6053,6087,Albanian,2021
+Shtip,5,1,Albanian,2021
+Berovo ,23,23,Turkish,2021
+Bitola,103,53,Turkish,2021
+Valandovo,75,96,Turkish,2021
+Veles,133,134,Turkish,2021
+Vinica,5,11,Turkish,2021
+Gevgelija,15,23,Turkish,2021
+Gostivar,524,558,Turkish,2021
+Debar,241,234,Turkish,2021
+Delchevo,7,4,Turkish,2021
+Demir Hisar,2,2,Turkish,2021
+Kavadarci,10,2,Turkish,2021
+Kichevo,219,214,Turkish,2021
+Kochani,15,9,Turkish,2021
+Kratovo,0,0,Turkish,2021
+Kriva Palanka,0,0,Turkish,2021
+Krushevo,28,20,Turkish,2021
+Kumanovo,9,17,Turkish,2021
+Makedonski Brod,238,205,Turkish,2021
+Negotino,13,14,Turkish,2021
+Ohrid,77,82,Turkish,2021
+Prilep,161,197,Turkish,2021
+Probishtip,1,0,Turkish,2021
+Radovish,695,626,Turkish,2021
+Resen,61,85,Turkish,2021
+Sveti Nikole,8,6,Turkish,2021
+Skopje,207,250,Turkish,2021
+Struga,41,30,Turkish,2021
+Strumica,1311,1207,Turkish,2021
+Tetovo,41,47,Turkish,2021
+Shtip,86,81,Turkish,2021
+Berovo ,109,94,Roma,2021
+Bitola,511,500,Roma,2021
+Valandovo,4,1,Roma,2021
+Veles,122,113,Roma,2021
+Vinica,183,157,Roma,2021
+Gevgelija,7,8,Roma,2021
+Gostivar,417,410,Roma,2021
+Debar,216,245,Roma,2021
+Delchevo,64,63,Roma,2021
+Demir Hisar,0,0,Roma,2021
+Kavadarci,122,113,Roma,2021
+Kichevo,288,283,Roma,2021
+Kochani,257,257,Roma,2021
+Kratovo,13,17,Roma,2021
+Kriva Palanka,66,64,Roma,2021
+Krushevo,5,6,Roma,2021
+Kumanovo,530,537,Roma,2021
+Makedonski Brod,0,0,Roma,2021
+Negotino,27,25,Roma,2021
+Ohrid,49,41,Roma,2021
+Prilep,772,717,Roma,2021
+Probishtip,3,2,Roma,2021
+Radovish,28,19,Roma,2021
+Resen,75,66,Roma,2021
+Sveti Nikole,7,3,Roma,2021
+Skopje,2426,2129,Roma,2021
+Struga,35,30,Roma,2021
+Strumica,35,15,Roma,2021
+Tetovo,168,211,Roma,2021
+Shtip,383,440,Roma,2021
+Berovo ,3,0,Serbian,2021
+Bitola,9,4,Serbian,2021
+Valandovo,7,25,Serbian,2021
+Veles,3,3,Serbian,2021
+Vinica,0,1,Serbian,2021
+Gevgelija,9,22,Serbian,2021
+Gostivar,5,1,Serbian,2021
+Debar,0,0,Serbian,2021
+Delchevo,1,1,Serbian,2021
+Demir Hisar,1,0,Serbian,2021
+Kavadarci,6,10,Serbian,2021
+Kichevo,0,0,Serbian,2021
+Kochani,0,0,Serbian,2021
+Kratovo,0,0,Serbian,2021
+Kriva Palanka,3,1,Serbian,2021
+Krushevo,0,0,Serbian,2021
+Kumanovo,182,231,Serbian,2021
+Makedonski Brod,0,1,Serbian,2021
+Negotino,2,5,Serbian,2021
+Ohrid,3,4,Serbian,2021
+Prilep,2,2,Serbian,2021
+Probishtip,1,2,Serbian,2021
+Radovish,0,1,Serbian,2021
+Resen,1,6,Serbian,2021
+Sveti Nikole,0,0,Serbian,2021
+Skopje,65,64,Serbian,2021
+Struga,0,0,Serbian,2021
+Strumica,4,2,Serbian,2021
+Tetovo,8,7,Serbian,2021
+Shtip,5,1,Serbian,2021
+Berovo ,0,0,Vlachs,2021
+Bitola,7,8,Vlachs,2021
+Valandovo,0,0,Vlachs,2021
+Veles,0,0,Vlachs,2021
+Vinica,0,2,Vlachs,2021
+Gevgelija,0,0,Vlachs,2021
+Gostivar,0,0,Vlachs,2021
+Debar,0,0,Vlachs,2021
+Delchevo,0,0,Vlachs,2021
+Demir Hisar,0,0,Vlachs,2021
+Kavadarci,0,1,Vlachs,2021
+Kichevo,0,1,Vlachs,2021
+Kochani,1,0,Vlachs,2021
+Kratovo,0,0,Vlachs,2021
+Kriva Palanka,0,0,Vlachs,2021
+Krushevo,32,22,Vlachs,2021
+Kumanovo,0,0,Vlachs,2021
+Makedonski Brod,0,0,Vlachs,2021
+Negotino,1,0,Vlachs,2021
+Ohrid,1,0,Vlachs,2021
+Prilep,1,0,Vlachs,2021
+Probishtip,0,0,Vlachs,2021
+Radovish,0,1,Vlachs,2021
+Resen,0,0,Vlachs,2021
+Sveti Nikole,2,1,Vlachs,2021
+Skopje,1,8,Vlachs,2021
+Struga,2,1,Vlachs,2021
+Strumica,0,0,Vlachs,2021
+Tetovo,0,0,Vlachs,2021
+Shtip,27,39,Vlachs,2021
+Berovo ,0,0,Bosniak,2021
+Bitola,2,1,Bosniak,2021
+Valandovo,1,0,Bosniak,2021
+Veles,41,42,Bosniak,2021
+Vinica,0,0,Bosniak,2021
+Gevgelija,0,0,Bosniak,2021
+Gostivar,2,0,Bosniak,2021
+Debar,1,0,Bosniak,2021
+Delchevo,0,0,Bosniak,2021
+Demir Hisar,0,0,Bosniak,2021
+Kavadarci,1,0,Bosniak,2021
+Kichevo,0,2,Bosniak,2021
+Kochani,0,0,Bosniak,2021
+Kratovo,0,0,Bosniak,2021
+Kriva Palanka,0,0,Bosniak,2021
+Krushevo,6,1,Bosniak,2021
+Kumanovo,1,0,Bosniak,2021
+Makedonski Brod,0,0,Bosniak,2021
+Negotino,0,0,Bosniak,2021
+Ohrid,1,0,Bosniak,2021
+Prilep,80,75,Bosniak,2021
+Probishtip,0,0,Bosniak,2021
+Radovish,0,0,Bosniak,2021
+Resen,0,0,Bosniak,2021
+Sveti Nikole,0,2,Bosniak,2021
+Skopje,94,82,Bosniak,2021
+Struga,1,1,Bosniak,2021
+Strumica,0,0,Bosniak,2021
+Tetovo,2,2,Bosniak,2021
+Shtip,1,0,Bosniak,2021
+Berovo ,5,1,Other,2021
+Bitola,53,54,Other,2021
+Valandovo,1,4,Other,2021
+Veles,125,158,Other,2021
+Vinica,0,2,Other,2021
+Gevgelija,2,1,Other,2021
+Gostivar,228,235,Other,2021
+Debar,248,250,Other,2021
+Delchevo,2,0,Other,2021
+Demir Hisar,0,0,Other,2021
+Kavadarci,8,5,Other,2021
+Kichevo,22,31,Other,2021
+Kochani,0,1,Other,2021
+Kratovo,1,0,Other,2021
+Kriva Palanka,5,1,Other,2021
+Krushevo,11,13,Other,2021
+Kumanovo,17,12,Other,2021
+Makedonski Brod,1,0,Other,2021
+Negotino,7,8,Other,2021
+Ohrid,119,103,Other,2021
+Prilep,26,32,Other,2021
+Probishtip,2,0,Other,2021
+Radovish,6,1,Other,2021
+Resen,33,27,Other,2021
+Sveti Nikole,2,3,Other,2021
+Skopje,239,185,Other,2021
+Struga,146,199,Other,2021
+Strumica,5,7,Other,2021
+Tetovo,35,25,Other,2021
+Shtip,18,12,Other,2021

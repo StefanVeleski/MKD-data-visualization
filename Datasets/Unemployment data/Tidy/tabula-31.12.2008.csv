@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,1503,1963,Macedonian,2008
+Bitola,7859,8179,Macedonian,2008
+Valandovo,634,1188,Macedonian,2008
+Veles,5318,6059,Macedonian,2008
+Vinica,1043,1599,Macedonian,2008
+Gevgelija,1222,2030,Macedonian,2008
+Gostivar,1547,1891,Macedonian,2008
+Debar,34,37,Macedonian,2008
+Delchevo,1533,2362,Macedonian,2008
+Demir Hisar,828,1024,Macedonian,2008
+Kavadarci,3679,4413,Macedonian,2008
+Kichevo,1888,1828,Macedonian,2008
+Kochani,3443,5690,Macedonian,2008
+Kratovo,1066,1178,Macedonian,2008
+Kriva Palanka,2879,3058,Macedonian,2008
+Krushevo,562,806,Macedonian,2008
+Kumanovo,6957,7887,Macedonian,2008
+Makedonski Brod,821,1234,Macedonian,2008
+Negotino,1750,2314,Macedonian,2008
+Ohrid,4613,4769,Macedonian,2008
+Prilep,8662,10634,Macedonian,2008
+Probishtip,1457,1573,Macedonian,2008
+Radovish,2070,3140,Macedonian,2008
+Resen,946,1338,Macedonian,2008
+Sveti Nikole,1421,2548,Macedonian,2008
+Skopje,22799,20841,Macedonian,2008
+Struga,1643,2253,Macedonian,2008
+Strumica,6739,9470,Macedonian,2008
+Tetovo,1863,2728,Macedonian,2008
+Shtip,1898,3655,Macedonian,2008
+Berovo ,0,0,Albanian,2008
+Bitola,450,537,Albanian,2008
+Valandovo,0,2,Albanian,2008
+Veles,450,688,Albanian,2008
+Vinica,0,0,Albanian,2008
+Gevgelija,2,2,Albanian,2008
+Gostivar,2705,6778,Albanian,2008
+Debar,758,980,Albanian,2008
+Delchevo,0,0,Albanian,2008
+Demir Hisar,20,32,Albanian,2008
+Kavadarci,3,1,Albanian,2008
+Kichevo,1397,1942,Albanian,2008
+Kochani,0,2,Albanian,2008
+Kratovo,1,1,Albanian,2008
+Kriva Palanka,0,0,Albanian,2008
+Krushevo,62,336,Albanian,2008
+Kumanovo,4580,6671,Albanian,2008
+Makedonski Brod,2,1,Albanian,2008
+Negotino,5,1,Albanian,2008
+Ohrid,251,272,Albanian,2008
+Prilep,229,439,Albanian,2008
+Probishtip,0,0,Albanian,2008
+Radovish,1,1,Albanian,2008
+Resen,92,172,Albanian,2008
+Sveti Nikole,5,11,Albanian,2008
+Skopje,7983,17713,Albanian,2008
+Struga,1211,2281,Albanian,2008
+Strumica,3,0,Albanian,2008
+Tetovo,8883,15996,Albanian,2008
+Shtip,0,2,Albanian,2008
+Berovo ,48,72,Turkish,2008
+Bitola,316,308,Turkish,2008
+Valandovo,162,272,Turkish,2008
+Veles,320,358,Turkish,2008
+Vinica,13,24,Turkish,2008
+Gevgelija,25,44,Turkish,2008
+Gostivar,238,1011,Turkish,2008
+Debar,199,530,Turkish,2008
+Delchevo,11,10,Turkish,2008
+Demir Hisar,4,6,Turkish,2008
+Kavadarci,7,10,Turkish,2008
+Kichevo,372,590,Turkish,2008
+Kochani,7,15,Turkish,2008
+Kratovo,2,0,Turkish,2008
+Kriva Palanka,0,0,Turkish,2008
+Krushevo,14,46,Turkish,2008
+Kumanovo,22,61,Turkish,2008
+Makedonski Brod,232,268,Turkish,2008
+Negotino,40,43,Turkish,2008
+Ohrid,171,248,Turkish,2008
+Prilep,339,731,Turkish,2008
+Probishtip,0,0,Turkish,2008
+Radovish,335,931,Turkish,2008
+Resen,145,232,Turkish,2008
+Sveti Nikole,31,38,Turkish,2008
+Skopje,420,607,Turkish,2008
+Struga,56,83,Turkish,2008
+Strumica,1110,1755,Turkish,2008
+Tetovo,75,171,Turkish,2008
+Shtip,79,296,Turkish,2008
+Berovo ,121,165,Roma,2008
+Bitola,499,457,Roma,2008
+Valandovo,2,2,Roma,2008
+Veles,131,172,Roma,2008
+Vinica,159,219,Roma,2008
+Gevgelija,3,8,Roma,2008
+Gostivar,235,469,Roma,2008
+Debar,172,300,Roma,2008
+Delchevo,74,99,Roma,2008
+Demir Hisar,0,0,Roma,2008
+Kavadarci,81,176,Roma,2008
+Kichevo,224,427,Roma,2008
+Kochani,330,454,Roma,2008
+Kratovo,32,42,Roma,2008
+Kriva Palanka,105,110,Roma,2008
+Krushevo,9,11,Roma,2008
+Kumanovo,561,808,Roma,2008
+Makedonski Brod,0,0,Roma,2008
+Negotino,30,42,Roma,2008
+Ohrid,176,159,Roma,2008
+Prilep,870,858,Roma,2008
+Probishtip,1,2,Roma,2008
+Radovish,5,11,Roma,2008
+Resen,48,64,Roma,2008
+Sveti Nikole,21,11,Roma,2008
+Skopje,3165,4277,Roma,2008
+Struga,30,54,Roma,2008
+Strumica,3,4,Roma,2008
+Tetovo,191,386,Roma,2008
+Shtip,326,410,Roma,2008
+Berovo ,4,2,Serbian,2008
+Bitola,14,24,Serbian,2008
+Valandovo,55,136,Serbian,2008
+Veles,13,43,Serbian,2008
+Vinica,2,1,Serbian,2008
+Gevgelija,46,70,Serbian,2008
+Gostivar,13,13,Serbian,2008
+Debar,4,2,Serbian,2008
+Delchevo,5,1,Serbian,2008
+Demir Hisar,0,0,Serbian,2008
+Kavadarci,18,41,Serbian,2008
+Kichevo,3,10,Serbian,2008
+Kochani,9,3,Serbian,2008
+Kratovo,1,0,Serbian,2008
+Kriva Palanka,7,2,Serbian,2008
+Krushevo,0,3,Serbian,2008
+Kumanovo,563,875,Serbian,2008
+Makedonski Brod,0,1,Serbian,2008
+Negotino,9,25,Serbian,2008
+Ohrid,18,14,Serbian,2008
+Prilep,7,3,Serbian,2008
+Probishtip,0,1,Serbian,2008
+Radovish,4,10,Serbian,2008
+Resen,6,12,Serbian,2008
+Sveti Nikole,6,5,Serbian,2008
+Skopje,303,354,Serbian,2008
+Struga,4,10,Serbian,2008
+Strumica,8,11,Serbian,2008
+Tetovo,16,29,Serbian,2008
+Shtip,2,11,Serbian,2008
+Berovo ,0,0,Vlachs,2008
+Bitola,11,16,Vlachs,2008
+Valandovo,0,0,Vlachs,2008
+Veles,1,2,Vlachs,2008
+Vinica,0,1,Vlachs,2008
+Gevgelija,0,0,Vlachs,2008
+Gostivar,0,0,Vlachs,2008
+Debar,0,0,Vlachs,2008
+Delchevo,0,0,Vlachs,2008
+Demir Hisar,0,0,Vlachs,2008
+Kavadarci,0,1,Vlachs,2008
+Kichevo,0,2,Vlachs,2008
+Kochani,2,6,Vlachs,2008
+Kratovo,0,0,Vlachs,2008
+Kriva Palanka,0,0,Vlachs,2008
+Krushevo,38,86,Vlachs,2008
+Kumanovo,2,3,Vlachs,2008
+Makedonski Brod,0,0,Vlachs,2008
+Negotino,0,0,Vlachs,2008
+Ohrid,1,0,Vlachs,2008
+Prilep,0,0,Vlachs,2008
+Probishtip,0,0,Vlachs,2008
+Radovish,0,2,Vlachs,2008
+Resen,0,0,Vlachs,2008
+Sveti Nikole,5,2,Vlachs,2008
+Skopje,6,6,Vlachs,2008
+Struga,3,5,Vlachs,2008
+Strumica,0,0,Vlachs,2008
+Tetovo,0,0,Vlachs,2008
+Shtip,46,127,Vlachs,2008
+Berovo ,0,0,Bosniak,2008
+Bitola,0,0,Bosniak,2008
+Valandovo,0,0,Bosniak,2008
+Veles,57,76,Bosniak,2008
+Vinica,0,0,Bosniak,2008
+Gevgelija,0,0,Bosniak,2008
+Gostivar,0,0,Bosniak,2008
+Debar,1,1,Bosniak,2008
+Delchevo,0,0,Bosniak,2008
+Demir Hisar,0,0,Bosniak,2008
+Kavadarci,0,0,Bosniak,2008
+Kichevo,0,1,Bosniak,2008
+Kochani,0,0,Bosniak,2008
+Kratovo,0,0,Bosniak,2008
+Kriva Palanka,0,0,Bosniak,2008
+Krushevo,2,1,Bosniak,2008
+Kumanovo,1,0,Bosniak,2008
+Makedonski Brod,0,0,Bosniak,2008
+Negotino,0,0,Bosniak,2008
+Ohrid,0,0,Bosniak,2008
+Prilep,46,49,Bosniak,2008
+Probishtip,0,0,Bosniak,2008
+Radovish,0,1,Bosniak,2008
+Resen,1,0,Bosniak,2008
+Sveti Nikole,0,0,Bosniak,2008
+Skopje,40,50,Bosniak,2008
+Struga,2,2,Bosniak,2008
+Strumica,0,0,Bosniak,2008
+Tetovo,1,2,Bosniak,2008
+Shtip,0,0,Bosniak,2008
+Berovo ,7,6,Other,2008
+Bitola,136,165,Other,2008
+Valandovo,4,11,Other,2008
+Veles,390,503,Other,2008
+Vinica,8,8,Other,2008
+Gevgelija,2,5,Other,2008
+Gostivar,260,660,Other,2008
+Debar,287,714,Other,2008
+Delchevo,7,3,Other,2008
+Demir Hisar,0,0,Other,2008
+Kavadarci,4,18,Other,2008
+Kichevo,56,119,Other,2008
+Kochani,6,19,Other,2008
+Kratovo,3,2,Other,2008
+Kriva Palanka,8,8,Other,2008
+Krushevo,13,35,Other,2008
+Kumanovo,36,47,Other,2008
+Makedonski Brod,10,10,Other,2008
+Negotino,26,22,Other,2008
+Ohrid,287,256,Other,2008
+Prilep,265,276,Other,2008
+Probishtip,6,5,Other,2008
+Radovish,15,14,Other,2008
+Resen,35,42,Other,2008
+Sveti Nikole,5,10,Other,2008
+Skopje,1046,990,Other,2008
+Struga,241,693,Other,2008
+Strumica,26,32,Other,2008
+Tetovo,50,108,Other,2008
+Shtip,71,38,Other,2008

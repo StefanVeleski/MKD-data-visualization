@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,663,714,Macedonian,2020
+Bitola,2641,2386,Macedonian,2020
+Valandovo,341,396,Macedonian,2020
+Veles,1838,1880,Macedonian,2020
+Vinica,266,350,Macedonian,2020
+Gevgelija,977,1022,Macedonian,2020
+Gostivar,886,875,Macedonian,2020
+Debar,160,70,Macedonian,2020
+Delchevo,753,745,Macedonian,2020
+Demir Hisar,465,394,Macedonian,2020
+Kavadarci,1049,980,Macedonian,2020
+Kichevo,715,698,Macedonian,2020
+Kochani,1306,1676,Macedonian,2020
+Kratovo,356,330,Macedonian,2020
+Kriva Palanka,1563,1339,Macedonian,2020
+Krushevo,371,336,Macedonian,2020
+Kumanovo,3433,2943,Macedonian,2020
+Makedonski Brod,431,517,Macedonian,2020
+Negotino,655,776,Macedonian,2020
+Ohrid,1537,1593,Macedonian,2020
+Prilep,3091,3592,Macedonian,2020
+Probishtip,535,615,Macedonian,2020
+Radovish,818,756,Macedonian,2020
+Resen,493,651,Macedonian,2020
+Sveti Nikole,637,844,Macedonian,2020
+Skopje,5585,5071,Macedonian,2020
+Struga,1084,1070,Macedonian,2020
+Strumica,1990,1929,Macedonian,2020
+Tetovo,2260,1899,Macedonian,2020
+Shtip,1531,1627,Macedonian,2020
+Berovo ,1,0,Albanian,2020
+Bitola,183,166,Albanian,2020
+Valandovo,2,1,Albanian,2020
+Veles,391,410,Albanian,2020
+Vinica,0,0,Albanian,2020
+Gevgelija,2,3,Albanian,2020
+Gostivar,3513,3365,Albanian,2020
+Debar,664,587,Albanian,2020
+Delchevo,6,0,Albanian,2020
+Demir Hisar,13,15,Albanian,2020
+Kavadarci,7,0,Albanian,2020
+Kichevo,785,733,Albanian,2020
+Kochani,2,0,Albanian,2020
+Kratovo,0,0,Albanian,2020
+Kriva Palanka,1,0,Albanian,2020
+Krushevo,165,207,Albanian,2020
+Kumanovo,4297,3860,Albanian,2020
+Makedonski Brod,13,0,Albanian,2020
+Negotino,2,0,Albanian,2020
+Ohrid,115,116,Albanian,2020
+Prilep,191,201,Albanian,2020
+Probishtip,1,0,Albanian,2020
+Radovish,6,0,Albanian,2020
+Resen,59,87,Albanian,2020
+Sveti Nikole,4,6,Albanian,2020
+Skopje,6848,6841,Albanian,2020
+Struga,1052,1074,Albanian,2020
+Strumica,2,0,Albanian,2020
+Tetovo,7521,7803,Albanian,2020
+Shtip,5,2,Albanian,2020
+Berovo ,28,28,Turkish,2020
+Bitola,126,68,Turkish,2020
+Valandovo,77,105,Turkish,2020
+Veles,142,148,Turkish,2020
+Vinica,6,13,Turkish,2020
+Gevgelija,19,27,Turkish,2020
+Gostivar,589,647,Turkish,2020
+Debar,259,256,Turkish,2020
+Delchevo,7,3,Turkish,2020
+Demir Hisar,2,2,Turkish,2020
+Kavadarci,8,4,Turkish,2020
+Kichevo,253,239,Turkish,2020
+Kochani,15,8,Turkish,2020
+Kratovo,0,0,Turkish,2020
+Kriva Palanka,0,0,Turkish,2020
+Krushevo,25,24,Turkish,2020
+Kumanovo,8,17,Turkish,2020
+Makedonski Brod,244,238,Turkish,2020
+Negotino,20,18,Turkish,2020
+Ohrid,97,99,Turkish,2020
+Prilep,148,209,Turkish,2020
+Probishtip,1,0,Turkish,2020
+Radovish,709,642,Turkish,2020
+Resen,66,90,Turkish,2020
+Sveti Nikole,6,7,Turkish,2020
+Skopje,217,275,Turkish,2020
+Struga,47,46,Turkish,2020
+Strumica,1405,1390,Turkish,2020
+Tetovo,59,64,Turkish,2020
+Shtip,98,121,Turkish,2020
+Berovo ,129,109,Roma,2020
+Bitola,520,495,Roma,2020
+Valandovo,2,2,Roma,2020
+Veles,129,125,Roma,2020
+Vinica,220,185,Roma,2020
+Gevgelija,10,13,Roma,2020
+Gostivar,455,447,Roma,2020
+Debar,225,264,Roma,2020
+Delchevo,71,71,Roma,2020
+Demir Hisar,0,0,Roma,2020
+Kavadarci,131,123,Roma,2020
+Kichevo,292,293,Roma,2020
+Kochani,282,302,Roma,2020
+Kratovo,11,16,Roma,2020
+Kriva Palanka,74,76,Roma,2020
+Krushevo,5,6,Roma,2020
+Kumanovo,539,567,Roma,2020
+Makedonski Brod,0,0,Roma,2020
+Negotino,40,29,Roma,2020
+Ohrid,56,45,Roma,2020
+Prilep,732,715,Roma,2020
+Probishtip,2,2,Roma,2020
+Radovish,26,18,Roma,2020
+Resen,74,64,Roma,2020
+Sveti Nikole,8,7,Roma,2020
+Skopje,2529,2326,Roma,2020
+Struga,43,38,Roma,2020
+Strumica,34,17,Roma,2020
+Tetovo,206,247,Roma,2020
+Shtip,435,514,Roma,2020
+Berovo ,3,0,Serbian,2020
+Bitola,12,4,Serbian,2020
+Valandovo,12,36,Serbian,2020
+Veles,3,5,Serbian,2020
+Vinica,0,0,Serbian,2020
+Gevgelija,12,26,Serbian,2020
+Gostivar,8,2,Serbian,2020
+Debar,0,0,Serbian,2020
+Delchevo,1,1,Serbian,2020
+Demir Hisar,1,0,Serbian,2020
+Kavadarci,5,11,Serbian,2020
+Kichevo,1,2,Serbian,2020
+Kochani,0,0,Serbian,2020
+Kratovo,0,0,Serbian,2020
+Kriva Palanka,3,2,Serbian,2020
+Krushevo,0,0,Serbian,2020
+Kumanovo,236,282,Serbian,2020
+Makedonski Brod,0,2,Serbian,2020
+Negotino,6,5,Serbian,2020
+Ohrid,5,2,Serbian,2020
+Prilep,4,3,Serbian,2020
+Probishtip,0,1,Serbian,2020
+Radovish,0,2,Serbian,2020
+Resen,2,8,Serbian,2020
+Sveti Nikole,1,1,Serbian,2020
+Skopje,72,94,Serbian,2020
+Struga,0,4,Serbian,2020
+Strumica,4,3,Serbian,2020
+Tetovo,8,11,Serbian,2020
+Shtip,5,3,Serbian,2020
+Berovo ,0,0,Vlachs,2020
+Bitola,9,8,Vlachs,2020
+Valandovo,0,0,Vlachs,2020
+Veles,1,0,Vlachs,2020
+Vinica,0,5,Vlachs,2020
+Gevgelija,0,0,Vlachs,2020
+Gostivar,0,0,Vlachs,2020
+Debar,0,0,Vlachs,2020
+Delchevo,0,0,Vlachs,2020
+Demir Hisar,0,0,Vlachs,2020
+Kavadarci,0,1,Vlachs,2020
+Kichevo,0,1,Vlachs,2020
+Kochani,1,1,Vlachs,2020
+Kratovo,0,0,Vlachs,2020
+Kriva Palanka,0,0,Vlachs,2020
+Krushevo,38,36,Vlachs,2020
+Kumanovo,1,0,Vlachs,2020
+Makedonski Brod,0,0,Vlachs,2020
+Negotino,0,0,Vlachs,2020
+Ohrid,1,0,Vlachs,2020
+Prilep,2,0,Vlachs,2020
+Probishtip,0,0,Vlachs,2020
+Radovish,1,0,Vlachs,2020
+Resen,0,0,Vlachs,2020
+Sveti Nikole,4,2,Vlachs,2020
+Skopje,4,11,Vlachs,2020
+Struga,0,0,Vlachs,2020
+Strumica,0,0,Vlachs,2020
+Tetovo,0,0,Vlachs,2020
+Shtip,39,53,Vlachs,2020
+Berovo ,0,0,Bosniak,2020
+Bitola,2,1,Bosniak,2020
+Valandovo,1,0,Bosniak,2020
+Veles,43,42,Bosniak,2020
+Vinica,0,0,Bosniak,2020
+Gevgelija,0,0,Bosniak,2020
+Gostivar,3,0,Bosniak,2020
+Debar,1,0,Bosniak,2020
+Delchevo,0,0,Bosniak,2020
+Demir Hisar,0,0,Bosniak,2020
+Kavadarci,1,0,Bosniak,2020
+Kichevo,0,2,Bosniak,2020
+Kochani,0,0,Bosniak,2020
+Kratovo,0,0,Bosniak,2020
+Kriva Palanka,0,0,Bosniak,2020
+Krushevo,9,1,Bosniak,2020
+Kumanovo,2,0,Bosniak,2020
+Makedonski Brod,0,0,Bosniak,2020
+Negotino,0,0,Bosniak,2020
+Ohrid,1,0,Bosniak,2020
+Prilep,71,69,Bosniak,2020
+Probishtip,0,0,Bosniak,2020
+Radovish,1,0,Bosniak,2020
+Resen,0,0,Bosniak,2020
+Sveti Nikole,0,1,Bosniak,2020
+Skopje,105,111,Bosniak,2020
+Struga,0,2,Bosniak,2020
+Strumica,0,0,Bosniak,2020
+Tetovo,3,5,Bosniak,2020
+Shtip,2,0,Bosniak,2020
+Berovo ,5,1,Other,2020
+Bitola,61,59,Other,2020
+Valandovo,1,4,Other,2020
+Veles,134,167,Other,2020
+Vinica,1,4,Other,2020
+Gevgelija,4,1,Other,2020
+Gostivar,256,251,Other,2020
+Debar,295,283,Other,2020
+Delchevo,2,1,Other,2020
+Demir Hisar,0,0,Other,2020
+Kavadarci,8,8,Other,2020
+Kichevo,25,34,Other,2020
+Kochani,4,1,Other,2020
+Kratovo,1,0,Other,2020
+Kriva Palanka,4,1,Other,2020
+Krushevo,11,14,Other,2020
+Kumanovo,21,17,Other,2020
+Makedonski Brod,2,0,Other,2020
+Negotino,5,12,Other,2020
+Ohrid,138,118,Other,2020
+Prilep,27,29,Other,2020
+Probishtip,4,0,Other,2020
+Radovish,7,3,Other,2020
+Resen,35,27,Other,2020
+Sveti Nikole,1,5,Other,2020
+Skopje,262,203,Other,2020
+Struga,184,254,Other,2020
+Strumica,8,7,Other,2020
+Tetovo,45,32,Other,2020
+Shtip,21,15,Other,2020

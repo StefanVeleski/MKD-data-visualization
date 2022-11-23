@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,1693,2140,Macedonian,2003
+Bitola,8864,8981,Macedonian,2003
+Valandovo,1116,1782,Macedonian,2003
+Veles,6517,6828,Macedonian,2003
+Vinica,1220,1679,Macedonian,2003
+Gevgelija,2342,3170,Macedonian,2003
+Gostivar,1845,1908,Macedonian,2003
+Debar,55,54,Macedonian,2003
+Delchevo,1885,3542,Macedonian,2003
+Demir Hisar,912,1109,Macedonian,2003
+Kavadarci,3882,5158,Macedonian,2003
+Kichevo,2001,1840,Macedonian,2003
+Kochani,4324,7187,Macedonian,2003
+Kratovo,1318,1381,Macedonian,2003
+Kriva Palanka,3164,3572,Macedonian,2003
+Krushevo,789,910,Macedonian,2003
+Kumanovo,8401,8891,Macedonian,2003
+Makedonski Brod,801,897,Macedonian,2003
+Negotino,2200,2634,Macedonian,2003
+Ohrid,4721,5024,Macedonian,2003
+Prilep,10845,11849,Macedonian,2003
+Probishtip,1914,2685,Macedonian,2003
+Radovish,2203,3649,Macedonian,2003
+Resen,878,1186,Macedonian,2003
+Sveti Nikole,2193,3038,Macedonian,2003
+Skopje,29177,27349,Macedonian,2003
+Struga,1737,2124,Macedonian,2003
+Strumica,9821,11299,Macedonian,2003
+Tetovo,1987,2596,Macedonian,2003
+Shtip,3321,5078,Macedonian,2003
+Berovo ,0,0,Albanian,2003
+Bitola,556,666,Albanian,2003
+Valandovo,1,2,Albanian,2003
+Veles,547,546,Albanian,2003
+Vinica,1,0,Albanian,2003
+Gevgelija,2,4,Albanian,2003
+Gostivar,2480,6533,Albanian,2003
+Debar,901,1077,Albanian,2003
+Delchevo,0,0,Albanian,2003
+Demir Hisar,18,31,Albanian,2003
+Kavadarci,0,0,Albanian,2003
+Kichevo,1081,2209,Albanian,2003
+Kochani,0,1,Albanian,2003
+Kratovo,0,0,Albanian,2003
+Kriva Palanka,0,1,Albanian,2003
+Krushevo,71,496,Albanian,2003
+Kumanovo,4724,7406,Albanian,2003
+Makedonski Brod,1,1,Albanian,2003
+Negotino,2,1,Albanian,2003
+Ohrid,332,339,Albanian,2003
+Prilep,368,373,Albanian,2003
+Probishtip,0,0,Albanian,2003
+Radovish,0,1,Albanian,2003
+Resen,94,163,Albanian,2003
+Sveti Nikole,5,10,Albanian,2003
+Skopje,6268,17581,Albanian,2003
+Struga,1451,2170,Albanian,2003
+Strumica,1,0,Albanian,2003
+Tetovo,7692,14889,Albanian,2003
+Shtip,2,3,Albanian,2003
+Berovo ,47,66,Turkish,2003
+Bitola,426,369,Turkish,2003
+Valandovo,255,318,Turkish,2003
+Veles,416,372,Turkish,2003
+Vinica,16,26,Turkish,2003
+Gevgelija,37,71,Turkish,2003
+Gostivar,282,1172,Turkish,2003
+Debar,216,734,Turkish,2003
+Delchevo,15,11,Turkish,2003
+Demir Hisar,5,5,Turkish,2003
+Kavadarci,4,13,Turkish,2003
+Kichevo,299,595,Turkish,2003
+Kochani,8,15,Turkish,2003
+Kratovo,1,0,Turkish,2003
+Kriva Palanka,0,0,Turkish,2003
+Krushevo,13,59,Turkish,2003
+Kumanovo,26,68,Turkish,2003
+Makedonski Brod,215,155,Turkish,2003
+Negotino,42,66,Turkish,2003
+Ohrid,224,297,Turkish,2003
+Prilep,550,837,Turkish,2003
+Probishtip,1,0,Turkish,2003
+Radovish,256,968,Turkish,2003
+Resen,144,234,Turkish,2003
+Sveti Nikole,30,44,Turkish,2003
+Skopje,511,711,Turkish,2003
+Struga,65,87,Turkish,2003
+Strumica,1775,1759,Turkish,2003
+Tetovo,95,180,Turkish,2003
+Shtip,105,301,Turkish,2003
+Berovo ,121,148,Roma,2003
+Bitola,502,485,Roma,2003
+Valandovo,1,2,Roma,2003
+Veles,164,167,Roma,2003
+Vinica,201,251,Roma,2003
+Gevgelija,4,10,Roma,2003
+Gostivar,220,478,Roma,2003
+Debar,159,285,Roma,2003
+Delchevo,76,143,Roma,2003
+Demir Hisar,0,0,Roma,2003
+Kavadarci,43,169,Roma,2003
+Kichevo,197,402,Roma,2003
+Kochani,317,503,Roma,2003
+Kratovo,31,42,Roma,2003
+Kriva Palanka,78,103,Roma,2003
+Krushevo,5,7,Roma,2003
+Kumanovo,701,901,Roma,2003
+Makedonski Brod,0,0,Roma,2003
+Negotino,27,29,Roma,2003
+Ohrid,305,272,Roma,2003
+Prilep,939,991,Roma,2003
+Probishtip,0,2,Roma,2003
+Radovish,1,2,Roma,2003
+Resen,44,57,Roma,2003
+Sveti Nikole,25,10,Roma,2003
+Skopje,2298,3517,Roma,2003
+Struga,27,45,Roma,2003
+Strumica,3,3,Roma,2003
+Tetovo,200,343,Roma,2003
+Shtip,425,456,Roma,2003
+Berovo ,4,2,Serbian,2003
+Bitola,26,31,Serbian,2003
+Valandovo,92,150,Serbian,2003
+Veles,29,46,Serbian,2003
+Vinica,0,1,Serbian,2003
+Gevgelija,56,109,Serbian,2003
+Gostivar,11,15,Serbian,2003
+Debar,3,4,Serbian,2003
+Delchevo,9,4,Serbian,2003
+Demir Hisar,0,0,Serbian,2003
+Kavadarci,18,50,Serbian,2003
+Kichevo,4,12,Serbian,2003
+Kochani,13,7,Serbian,2003
+Kratovo,0,1,Serbian,2003
+Kriva Palanka,4,6,Serbian,2003
+Krushevo,3,7,Serbian,2003
+Kumanovo,616,1125,Serbian,2003
+Makedonski Brod,0,0,Serbian,2003
+Negotino,16,29,Serbian,2003
+Ohrid,24,24,Serbian,2003
+Prilep,11,7,Serbian,2003
+Probishtip,1,2,Serbian,2003
+Radovish,1,15,Serbian,2003
+Resen,5,15,Serbian,2003
+Sveti Nikole,7,6,Serbian,2003
+Skopje,451,502,Serbian,2003
+Struga,2,7,Serbian,2003
+Strumica,9,15,Serbian,2003
+Tetovo,18,32,Serbian,2003
+Shtip,8,16,Serbian,2003
+Berovo ,0,0,Vlachs,2003
+Bitola,4,13,Vlachs,2003
+Valandovo,0,0,Vlachs,2003
+Veles,1,2,Vlachs,2003
+Vinica,0,0,Vlachs,2003
+Gevgelija,0,1,Vlachs,2003
+Gostivar,0,0,Vlachs,2003
+Debar,0,0,Vlachs,2003
+Delchevo,0,0,Vlachs,2003
+Demir Hisar,0,0,Vlachs,2003
+Kavadarci,0,0,Vlachs,2003
+Kichevo,0,0,Vlachs,2003
+Kochani,2,8,Vlachs,2003
+Kratovo,0,0,Vlachs,2003
+Kriva Palanka,0,0,Vlachs,2003
+Krushevo,59,96,Vlachs,2003
+Kumanovo,5,3,Vlachs,2003
+Makedonski Brod,0,0,Vlachs,2003
+Negotino,0,0,Vlachs,2003
+Ohrid,1,1,Vlachs,2003
+Prilep,0,0,Vlachs,2003
+Probishtip,0,0,Vlachs,2003
+Radovish,0,1,Vlachs,2003
+Resen,1,0,Vlachs,2003
+Sveti Nikole,9,4,Vlachs,2003
+Skopje,8,11,Vlachs,2003
+Struga,5,7,Vlachs,2003
+Strumica,0,0,Vlachs,2003
+Tetovo,0,0,Vlachs,2003
+Shtip,76,166,Vlachs,2003
+Berovo ,,0,Bosniak,2003
+Bitola,,0,Bosniak,2003
+Valandovo,,0,Bosniak,2003
+Veles,,0,Bosniak,2003
+Vinica,,0,Bosniak,2003
+Gevgelija,,0,Bosniak,2003
+Gostivar,,0,Bosniak,2003
+Debar,,0,Bosniak,2003
+Delchevo,,0,Bosniak,2003
+Demir Hisar,,0,Bosniak,2003
+Kavadarci,,0,Bosniak,2003
+Kichevo,,0,Bosniak,2003
+Kochani,,0,Bosniak,2003
+Kratovo,,0,Bosniak,2003
+Kriva Palanka,,0,Bosniak,2003
+Krushevo,,0,Bosniak,2003
+Kumanovo,,0,Bosniak,2003
+Makedonski Brod,,0,Bosniak,2003
+Negotino,,0,Bosniak,2003
+Ohrid,,0,Bosniak,2003
+Prilep,,0,Bosniak,2003
+Probishtip,,0,Bosniak,2003
+Radovish,,0,Bosniak,2003
+Resen,,0,Bosniak,2003
+Sveti Nikole,,0,Bosniak,2003
+Skopje,,0,Bosniak,2003
+Struga,,0,Bosniak,2003
+Strumica,,0,Bosniak,2003
+Tetovo,,0,Bosniak,2003
+Shtip,,0,Bosniak,2003
+Berovo ,14,15,Other,2003
+Bitola,154,201,Other,2003
+Valandovo,7,8,Other,2003
+Veles,565,606,Other,2003
+Vinica,6,4,Other,2003
+Gevgelija,8,7,Other,2003
+Gostivar,436,866,Other,2003
+Debar,287,776,Other,2003
+Delchevo,12,45,Other,2003
+Demir Hisar,0,2,Other,2003
+Kavadarci,13,28,Other,2003
+Kichevo,48,166,Other,2003
+Kochani,15,158,Other,2003
+Kratovo,2,1,Other,2003
+Kriva Palanka,10,11,Other,2003
+Krushevo,66,128,Other,2003
+Kumanovo,44,72,Other,2003
+Makedonski Brod,13,56,Other,2003
+Negotino,31,223,Other,2003
+Ohrid,204,173,Other,2003
+Prilep,415,321,Other,2003
+Probishtip,5,6,Other,2003
+Radovish,12,33,Other,2003
+Resen,19,37,Other,2003
+Sveti Nikole,5,10,Other,2003
+Skopje,1221,1395,Other,2003
+Struga,293,681,Other,2003
+Strumica,30,38,Other,2003
+Tetovo,70,148,Other,2003
+Shtip,403,257,Other,2003

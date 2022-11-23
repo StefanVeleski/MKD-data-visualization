@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,1412,1880,Macedonian,2010
+Bitola,7499,7927,Macedonian,2010
+Valandovo,529,989,Macedonian,2010
+Veles,4974,5639,Macedonian,2010
+Vinica,1026,1636,Macedonian,2010
+Gevgelija,1402,1832,Macedonian,2010
+Gostivar,1652,1872,Macedonian,2010
+Debar,48,56,Macedonian,2010
+Delchevo,1740,2531,Macedonian,2010
+Demir Hisar,910,990,Macedonian,2010
+Kavadarci,3502,3796,Macedonian,2010
+Kichevo,1933,1699,Macedonian,2010
+Kochani,3267,5307,Macedonian,2010
+Kratovo,1055,1027,Macedonian,2010
+Kriva Palanka,2748,3090,Macedonian,2010
+Krushevo,610,738,Macedonian,2010
+Kumanovo,6214,6921,Macedonian,2010
+Makedonski Brod,859,955,Macedonian,2010
+Negotino,1385,1710,Macedonian,2010
+Ohrid,4198,4434,Macedonian,2010
+Prilep,8399,9915,Macedonian,2010
+Probishtip,1270,1509,Macedonian,2010
+Radovish,2112,3077,Macedonian,2010
+Resen,992,1181,Macedonian,2010
+Sveti Nikole,1473,2388,Macedonian,2010
+Skopje,20002,18598,Macedonian,2010
+Struga,1793,2261,Macedonian,2010
+Strumica,6783,8991,Macedonian,2010
+Tetovo,2272,2925,Macedonian,2010
+Shtip,1954,3332,Macedonian,2010
+Berovo ,0,0,Albanian,2010
+Bitola,400,507,Albanian,2010
+Valandovo,0,2,Albanian,2010
+Veles,617,767,Albanian,2010
+Vinica,0,0,Albanian,2010
+Gevgelija,1,2,Albanian,2010
+Gostivar,2925,7216,Albanian,2010
+Debar,657,874,Albanian,2010
+Delchevo,0,0,Albanian,2010
+Demir Hisar,18,26,Albanian,2010
+Kavadarci,1,1,Albanian,2010
+Kichevo,1223,1648,Albanian,2010
+Kochani,1,1,Albanian,2010
+Kratovo,1,0,Albanian,2010
+Kriva Palanka,1,0,Albanian,2010
+Krushevo,79,351,Albanian,2010
+Kumanovo,4282,6220,Albanian,2010
+Makedonski Brod,10,3,Albanian,2010
+Negotino,1,0,Albanian,2010
+Ohrid,232,260,Albanian,2010
+Prilep,230,445,Albanian,2010
+Probishtip,0,0,Albanian,2010
+Radovish,2,1,Albanian,2010
+Resen,79,134,Albanian,2010
+Sveti Nikole,3,10,Albanian,2010
+Skopje,6904,16043,Albanian,2010
+Struga,1251,2228,Albanian,2010
+Strumica,2,0,Albanian,2010
+Tetovo,7787,14934,Albanian,2010
+Shtip,1,3,Albanian,2010
+Berovo ,50,69,Turkish,2010
+Bitola,273,275,Turkish,2010
+Valandovo,142,259,Turkish,2010
+Veles,341,333,Turkish,2010
+Vinica,11,20,Turkish,2010
+Gevgelija,21,47,Turkish,2010
+Gostivar,280,1014,Turkish,2010
+Debar,205,506,Turkish,2010
+Delchevo,11,8,Turkish,2010
+Demir Hisar,5,4,Turkish,2010
+Kavadarci,9,9,Turkish,2010
+Kichevo,350,518,Turkish,2010
+Kochani,5,13,Turkish,2010
+Kratovo,0,0,Turkish,2010
+Kriva Palanka,0,0,Turkish,2010
+Krushevo,12,48,Turkish,2010
+Kumanovo,17,51,Turkish,2010
+Makedonski Brod,203,334,Turkish,2010
+Negotino,24,32,Turkish,2010
+Ohrid,162,220,Turkish,2010
+Prilep,325,665,Turkish,2010
+Probishtip,0,0,Turkish,2010
+Radovish,336,931,Turkish,2010
+Resen,110,181,Turkish,2010
+Sveti Nikole,26,39,Turkish,2010
+Skopje,379,542,Turkish,2010
+Struga,61,101,Turkish,2010
+Strumica,1107,1853,Turkish,2010
+Tetovo,61,155,Turkish,2010
+Shtip,92,288,Turkish,2010
+Berovo ,124,155,Roma,2010
+Bitola,436,401,Roma,2010
+Valandovo,3,2,Roma,2010
+Veles,148,158,Roma,2010
+Vinica,189,242,Roma,2010
+Gevgelija,5,9,Roma,2010
+Gostivar,234,498,Roma,2010
+Debar,164,296,Roma,2010
+Delchevo,83,99,Roma,2010
+Demir Hisar,0,0,Roma,2010
+Kavadarci,70,144,Roma,2010
+Kichevo,216,396,Roma,2010
+Kochani,270,406,Roma,2010
+Kratovo,28,38,Roma,2010
+Kriva Palanka,103,118,Roma,2010
+Krushevo,6,6,Roma,2010
+Kumanovo,450,620,Roma,2010
+Makedonski Brod,0,0,Roma,2010
+Negotino,17,26,Roma,2010
+Ohrid,172,135,Roma,2010
+Prilep,860,842,Roma,2010
+Probishtip,1,1,Roma,2010
+Radovish,5,17,Roma,2010
+Resen,40,58,Roma,2010
+Sveti Nikole,18,11,Roma,2010
+Skopje,2570,3604,Roma,2010
+Struga,24,49,Roma,2010
+Strumica,7,1,Roma,2010
+Tetovo,180,354,Roma,2010
+Shtip,276,340,Roma,2010
+Berovo ,3,3,Serbian,2010
+Bitola,12,25,Serbian,2010
+Valandovo,50,126,Serbian,2010
+Veles,10,45,Serbian,2010
+Vinica,1,0,Serbian,2010
+Gevgelija,34,53,Serbian,2010
+Gostivar,10,12,Serbian,2010
+Debar,3,2,Serbian,2010
+Delchevo,5,2,Serbian,2010
+Demir Hisar,0,0,Serbian,2010
+Kavadarci,17,42,Serbian,2010
+Kichevo,3,9,Serbian,2010
+Kochani,6,3,Serbian,2010
+Kratovo,0,0,Serbian,2010
+Kriva Palanka,6,2,Serbian,2010
+Krushevo,1,5,Serbian,2010
+Kumanovo,514,761,Serbian,2010
+Makedonski Brod,0,2,Serbian,2010
+Negotino,4,17,Serbian,2010
+Ohrid,14,15,Serbian,2010
+Prilep,5,5,Serbian,2010
+Probishtip,3,1,Serbian,2010
+Radovish,4,10,Serbian,2010
+Resen,1,12,Serbian,2010
+Sveti Nikole,5,4,Serbian,2010
+Skopje,247,289,Serbian,2010
+Struga,4,10,Serbian,2010
+Strumica,6,10,Serbian,2010
+Tetovo,15,30,Serbian,2010
+Shtip,4,11,Serbian,2010
+Berovo ,0,0,Vlachs,2010
+Bitola,8,12,Vlachs,2010
+Valandovo,0,0,Vlachs,2010
+Veles,1,0,Vlachs,2010
+Vinica,0,1,Vlachs,2010
+Gevgelija,0,0,Vlachs,2010
+Gostivar,0,0,Vlachs,2010
+Debar,0,0,Vlachs,2010
+Delchevo,0,0,Vlachs,2010
+Demir Hisar,0,0,Vlachs,2010
+Kavadarci,0,0,Vlachs,2010
+Kichevo,0,1,Vlachs,2010
+Kochani,1,5,Vlachs,2010
+Kratovo,0,0,Vlachs,2010
+Kriva Palanka,0,0,Vlachs,2010
+Krushevo,44,75,Vlachs,2010
+Kumanovo,3,2,Vlachs,2010
+Makedonski Brod,0,0,Vlachs,2010
+Negotino,0,0,Vlachs,2010
+Ohrid,1,0,Vlachs,2010
+Prilep,0,0,Vlachs,2010
+Probishtip,0,0,Vlachs,2010
+Radovish,0,1,Vlachs,2010
+Resen,0,0,Vlachs,2010
+Sveti Nikole,5,5,Vlachs,2010
+Skopje,4,3,Vlachs,2010
+Struga,2,2,Vlachs,2010
+Strumica,0,0,Vlachs,2010
+Tetovo,0,0,Vlachs,2010
+Shtip,40,108,Vlachs,2010
+Berovo ,0,0,Bosniak,2010
+Bitola,1,0,Bosniak,2010
+Valandovo,0,0,Bosniak,2010
+Veles,77,92,Bosniak,2010
+Vinica,0,0,Bosniak,2010
+Gevgelija,2,0,Bosniak,2010
+Gostivar,0,0,Bosniak,2010
+Debar,0,0,Bosniak,2010
+Delchevo,0,0,Bosniak,2010
+Demir Hisar,0,0,Bosniak,2010
+Kavadarci,0,0,Bosniak,2010
+Kichevo,0,1,Bosniak,2010
+Kochani,0,0,Bosniak,2010
+Kratovo,0,0,Bosniak,2010
+Kriva Palanka,0,0,Bosniak,2010
+Krushevo,6,0,Bosniak,2010
+Kumanovo,0,0,Bosniak,2010
+Makedonski Brod,0,1,Bosniak,2010
+Negotino,0,0,Bosniak,2010
+Ohrid,1,0,Bosniak,2010
+Prilep,61,83,Bosniak,2010
+Probishtip,0,0,Bosniak,2010
+Radovish,0,0,Bosniak,2010
+Resen,0,0,Bosniak,2010
+Sveti Nikole,0,1,Bosniak,2010
+Skopje,95,82,Bosniak,2010
+Struga,2,1,Bosniak,2010
+Strumica,0,0,Bosniak,2010
+Tetovo,0,2,Bosniak,2010
+Shtip,0,0,Bosniak,2010
+Berovo ,5,6,Other,2010
+Bitola,112,142,Other,2010
+Valandovo,4,5,Other,2010
+Veles,363,459,Other,2010
+Vinica,5,9,Other,2010
+Gevgelija,3,3,Other,2010
+Gostivar,245,709,Other,2010
+Debar,369,672,Other,2010
+Delchevo,13,3,Other,2010
+Demir Hisar,0,0,Other,2010
+Kavadarci,7,14,Other,2010
+Kichevo,49,102,Other,2010
+Kochani,7,12,Other,2010
+Kratovo,0,2,Other,2010
+Kriva Palanka,10,10,Other,2010
+Krushevo,11,36,Other,2010
+Kumanovo,33,37,Other,2010
+Makedonski Brod,7,6,Other,2010
+Negotino,13,15,Other,2010
+Ohrid,256,216,Other,2010
+Prilep,237,244,Other,2010
+Probishtip,4,4,Other,2010
+Radovish,15,13,Other,2010
+Resen,25,40,Other,2010
+Sveti Nikole,3,10,Other,2010
+Skopje,835,845,Other,2010
+Struga,278,793,Other,2010
+Strumica,22,32,Other,2010
+Tetovo,53,96,Other,2010
+Shtip,19,17,Other,2010

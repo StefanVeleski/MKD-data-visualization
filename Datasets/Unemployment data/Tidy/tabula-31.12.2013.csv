@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,638,828,Macedonian,2013
+Bitola,3218,3258,Macedonian,2013
+Valandovo,159,258,Macedonian,2013
+Veles,1467,1675,Macedonian,2013
+Vinica,280,429,Macedonian,2013
+Gevgelija,660,765,Macedonian,2013
+Gostivar,781,871,Macedonian,2013
+Debar,23,37,Macedonian,2013
+Delchevo,594,856,Macedonian,2013
+Demir Hisar,536,616,Macedonian,2013
+Kavadarci,1578,1727,Macedonian,2013
+Kichevo,1124,1145,Macedonian,2013
+Kochani,1024,1769,Macedonian,2013
+Kratovo,416,485,Macedonian,2013
+Kriva Palanka,1626,1587,Macedonian,2013
+Krushevo,291,376,Macedonian,2013
+Kumanovo,2421,2598,Macedonian,2013
+Makedonski Brod,524,528,Macedonian,2013
+Negotino,528,601,Macedonian,2013
+Ohrid,1650,1948,Macedonian,2013
+Prilep,2988,3459,Macedonian,2013
+Probishtip,673,905,Macedonian,2013
+Radovish,699,856,Macedonian,2013
+Resen,574,677,Macedonian,2013
+Sveti Nikole,689,1135,Macedonian,2013
+Skopje,6482,6244,Macedonian,2013
+Struga,950,1213,Macedonian,2013
+Strumica,1118,1203,Macedonian,2013
+Tetovo,1386,1540,Macedonian,2013
+Shtip,936,1381,Macedonian,2013
+Berovo ,0,0,Albanian,2013
+Bitola,79,72,Albanian,2013
+Valandovo,0,0,Albanian,2013
+Veles,5,23,Albanian,2013
+Vinica,0,0,Albanian,2013
+Gevgelija,0,1,Albanian,2013
+Gostivar,476,887,Albanian,2013
+Debar,233,330,Albanian,2013
+Delchevo,0,0,Albanian,2013
+Demir Hisar,9,10,Albanian,2013
+Kavadarci,1,0,Albanian,2013
+Kichevo,238,465,Albanian,2013
+Kochani,1,0,Albanian,2013
+Kratovo,0,0,Albanian,2013
+Kriva Palanka,1,0,Albanian,2013
+Krushevo,10,45,Albanian,2013
+Kumanovo,349,816,Albanian,2013
+Makedonski Brod,4,0,Albanian,2013
+Negotino,0,1,Albanian,2013
+Ohrid,23,34,Albanian,2013
+Prilep,18,50,Albanian,2013
+Probishtip,0,0,Albanian,2013
+Radovish,1,0,Albanian,2013
+Resen,32,52,Albanian,2013
+Sveti Nikole,1,0,Albanian,2013
+Skopje,282,1222,Albanian,2013
+Struga,227,465,Albanian,2013
+Strumica,0,0,Albanian,2013
+Tetovo,1816,4928,Albanian,2013
+Shtip,1,1,Albanian,2013
+Berovo ,8,11,Turkish,2013
+Bitola,47,53,Turkish,2013
+Valandovo,3,4,Turkish,2013
+Veles,15,25,Turkish,2013
+Vinica,3,6,Turkish,2013
+Gevgelija,3,6,Turkish,2013
+Gostivar,58,189,Turkish,2013
+Debar,25,133,Turkish,2013
+Delchevo,0,2,Turkish,2013
+Demir Hisar,2,0,Turkish,2013
+Kavadarci,6,2,Turkish,2013
+Kichevo,45,140,Turkish,2013
+Kochani,2,2,Turkish,2013
+Kratovo,0,0,Turkish,2013
+Kriva Palanka,1,0,Turkish,2013
+Krushevo,0,6,Turkish,2013
+Kumanovo,1,4,Turkish,2013
+Makedonski Brod,10,134,Turkish,2013
+Negotino,3,1,Turkish,2013
+Ohrid,35,61,Turkish,2013
+Prilep,15,32,Turkish,2013
+Probishtip,0,0,Turkish,2013
+Radovish,9,44,Turkish,2013
+Resen,38,70,Turkish,2013
+Sveti Nikole,2,3,Turkish,2013
+Skopje,56,141,Turkish,2013
+Struga,19,25,Turkish,2013
+Strumica,16,44,Turkish,2013
+Tetovo,21,40,Turkish,2013
+Shtip,8,24,Turkish,2013
+Berovo ,31,46,Roma,2013
+Bitola,31,35,Roma,2013
+Valandovo,0,0,Roma,2013
+Veles,1,8,Roma,2013
+Vinica,13,24,Roma,2013
+Gevgelija,2,1,Roma,2013
+Gostivar,46,85,Roma,2013
+Debar,32,133,Roma,2013
+Delchevo,8,20,Roma,2013
+Demir Hisar,0,0,Roma,2013
+Kavadarci,22,37,Roma,2013
+Kichevo,26,106,Roma,2013
+Kochani,21,52,Roma,2013
+Kratovo,4,10,Roma,2013
+Kriva Palanka,23,29,Roma,2013
+Krushevo,0,0,Roma,2013
+Kumanovo,24,47,Roma,2013
+Makedonski Brod,0,0,Roma,2013
+Negotino,2,6,Roma,2013
+Ohrid,18,12,Roma,2013
+Prilep,47,85,Roma,2013
+Probishtip,2,1,Roma,2013
+Radovish,1,1,Roma,2013
+Resen,7,20,Roma,2013
+Sveti Nikole,0,3,Roma,2013
+Skopje,131,308,Roma,2013
+Struga,8,12,Roma,2013
+Strumica,0,0,Roma,2013
+Tetovo,51,92,Roma,2013
+Shtip,20,29,Roma,2013
+Berovo ,2,1,Serbian,2013
+Bitola,9,15,Serbian,2013
+Valandovo,9,12,Serbian,2013
+Veles,1,11,Serbian,2013
+Vinica,1,0,Serbian,2013
+Gevgelija,12,20,Serbian,2013
+Gostivar,0,3,Serbian,2013
+Debar,1,0,Serbian,2013
+Delchevo,1,1,Serbian,2013
+Demir Hisar,0,0,Serbian,2013
+Kavadarci,11,23,Serbian,2013
+Kichevo,3,1,Serbian,2013
+Kochani,0,0,Serbian,2013
+Kratovo,0,0,Serbian,2013
+Kriva Palanka,0,4,Serbian,2013
+Krushevo,0,0,Serbian,2013
+Kumanovo,162,233,Serbian,2013
+Makedonski Brod,0,2,Serbian,2013
+Negotino,0,4,Serbian,2013
+Ohrid,7,5,Serbian,2013
+Prilep,3,2,Serbian,2013
+Probishtip,0,3,Serbian,2013
+Radovish,3,1,Serbian,2013
+Resen,1,8,Serbian,2013
+Sveti Nikole,2,2,Serbian,2013
+Skopje,83,138,Serbian,2013
+Struga,1,5,Serbian,2013
+Strumica,2,0,Serbian,2013
+Tetovo,8,14,Serbian,2013
+Shtip,1,6,Serbian,2013
+Berovo ,0,0,Vlachs,2013
+Bitola,9,8,Vlachs,2013
+Valandovo,0,0,Vlachs,2013
+Veles,2,1,Vlachs,2013
+Vinica,2,3,Vlachs,2013
+Gevgelija,0,5,Vlachs,2013
+Gostivar,0,0,Vlachs,2013
+Debar,0,0,Vlachs,2013
+Delchevo,0,0,Vlachs,2013
+Demir Hisar,0,0,Vlachs,2013
+Kavadarci,1,1,Vlachs,2013
+Kichevo,0,1,Vlachs,2013
+Kochani,3,3,Vlachs,2013
+Kratovo,0,0,Vlachs,2013
+Kriva Palanka,1,0,Vlachs,2013
+Krushevo,39,64,Vlachs,2013
+Kumanovo,2,2,Vlachs,2013
+Makedonski Brod,0,0,Vlachs,2013
+Negotino,0,0,Vlachs,2013
+Ohrid,0,1,Vlachs,2013
+Prilep,0,0,Vlachs,2013
+Probishtip,0,0,Vlachs,2013
+Radovish,1,1,Vlachs,2013
+Resen,0,0,Vlachs,2013
+Sveti Nikole,7,6,Vlachs,2013
+Skopje,13,10,Vlachs,2013
+Struga,3,6,Vlachs,2013
+Strumica,0,0,Vlachs,2013
+Tetovo,0,0,Vlachs,2013
+Shtip,31,47,Vlachs,2013
+Berovo ,0,0,Bosniak,2013
+Bitola,1,1,Bosniak,2013
+Valandovo,0,0,Bosniak,2013
+Veles,7,11,Bosniak,2013
+Vinica,0,0,Bosniak,2013
+Gevgelija,0,0,Bosniak,2013
+Gostivar,0,0,Bosniak,2013
+Debar,0,0,Bosniak,2013
+Delchevo,0,0,Bosniak,2013
+Demir Hisar,0,0,Bosniak,2013
+Kavadarci,0,0,Bosniak,2013
+Kichevo,0,1,Bosniak,2013
+Kochani,0,0,Bosniak,2013
+Kratovo,0,0,Bosniak,2013
+Kriva Palanka,0,0,Bosniak,2013
+Krushevo,1,2,Bosniak,2013
+Kumanovo,0,0,Bosniak,2013
+Makedonski Brod,0,0,Bosniak,2013
+Negotino,0,0,Bosniak,2013
+Ohrid,0,0,Bosniak,2013
+Prilep,8,19,Bosniak,2013
+Probishtip,0,0,Bosniak,2013
+Radovish,0,0,Bosniak,2013
+Resen,0,0,Bosniak,2013
+Sveti Nikole,0,0,Bosniak,2013
+Skopje,72,78,Bosniak,2013
+Struga,0,0,Bosniak,2013
+Strumica,0,0,Bosniak,2013
+Tetovo,3,1,Bosniak,2013
+Shtip,1,0,Bosniak,2013
+Berovo ,2,2,Other,2013
+Bitola,26,18,Other,2013
+Valandovo,0,2,Other,2013
+Veles,11,28,Other,2013
+Vinica,1,3,Other,2013
+Gevgelija,2,0,Other,2013
+Gostivar,51,162,Other,2013
+Debar,42,234,Other,2013
+Delchevo,1,1,Other,2013
+Demir Hisar,0,0,Other,2013
+Kavadarci,8,9,Other,2013
+Kichevo,4,23,Other,2013
+Kochani,1,4,Other,2013
+Kratovo,1,0,Other,2013
+Kriva Palanka,4,2,Other,2013
+Krushevo,1,3,Other,2013
+Kumanovo,5,6,Other,2013
+Makedonski Brod,0,0,Other,2013
+Negotino,3,3,Other,2013
+Ohrid,43,69,Other,2013
+Prilep,4,18,Other,2013
+Probishtip,2,2,Other,2013
+Radovish,2,1,Other,2013
+Resen,12,17,Other,2013
+Sveti Nikole,1,3,Other,2013
+Skopje,98,92,Other,2013
+Struga,33,126,Other,2013
+Strumica,0,2,Other,2013
+Tetovo,16,31,Other,2013
+Shtip,4,7,Other,2013

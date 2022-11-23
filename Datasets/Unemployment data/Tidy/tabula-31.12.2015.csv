@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,554,718,Macedonian,2015
+Bitola,2927,2975,Macedonian,2015
+Valandovo,201,319,Macedonian,2015
+Veles,1496,1763,Macedonian,2015
+Vinica,205,371,Macedonian,2015
+Gevgelija,495,610,Macedonian,2015
+Gostivar,903,1071,Macedonian,2015
+Debar,28,37,Macedonian,2015
+Delchevo,588,813,Macedonian,2015
+Demir Hisar,510,532,Macedonian,2015
+Kavadarci,1364,1313,Macedonian,2015
+Kichevo,1093,1038,Macedonian,2015
+Kochani,988,1840,Macedonian,2015
+Kratovo,464,467,Macedonian,2015
+Kriva Palanka,1491,1818,Macedonian,2015
+Krushevo,306,431,Macedonian,2015
+Kumanovo,2800,3027,Macedonian,2015
+Makedonski Brod,510,560,Macedonian,2015
+Negotino,620,676,Macedonian,2015
+Ohrid,1765,2029,Macedonian,2015
+Prilep,3583,4075,Macedonian,2015
+Probishtip,615,1085,Macedonian,2015
+Radovish,672,783,Macedonian,2015
+Resen,541,700,Macedonian,2015
+Sveti Nikole,565,981,Macedonian,2015
+Skopje,5469,5294,Macedonian,2015
+Struga,886,1142,Macedonian,2015
+Strumica,1242,1426,Macedonian,2015
+Tetovo,1494,1745,Macedonian,2015
+Shtip,900,1233,Macedonian,2015
+Berovo ,1,0,Albanian,2015
+Bitola,100,133,Albanian,2015
+Valandovo,0,1,Albanian,2015
+Veles,45,208,Albanian,2015
+Vinica,0,0,Albanian,2015
+Gevgelija,0,1,Albanian,2015
+Gostivar,1004,2453,Albanian,2015
+Debar,304,507,Albanian,2015
+Delchevo,1,0,Albanian,2015
+Demir Hisar,7,11,Albanian,2015
+Kavadarci,3,0,Albanian,2015
+Kichevo,376,614,Albanian,2015
+Kochani,0,0,Albanian,2015
+Kratovo,0,0,Albanian,2015
+Kriva Palanka,1,0,Albanian,2015
+Krushevo,24,157,Albanian,2015
+Kumanovo,865,2878,Albanian,2015
+Makedonski Brod,6,0,Albanian,2015
+Negotino,0,1,Albanian,2015
+Ohrid,56,74,Albanian,2015
+Prilep,38,113,Albanian,2015
+Probishtip,0,0,Albanian,2015
+Radovish,1,0,Albanian,2015
+Resen,35,63,Albanian,2015
+Sveti Nikole,0,2,Albanian,2015
+Skopje,1462,3746,Albanian,2015
+Struga,354,628,Albanian,2015
+Strumica,0,0,Albanian,2015
+Tetovo,2662,6761,Albanian,2015
+Shtip,1,1,Albanian,2015
+Berovo ,11,33,Turkish,2015
+Bitola,79,77,Turkish,2015
+Valandovo,36,58,Turkish,2015
+Veles,48,97,Turkish,2015
+Vinica,6,13,Turkish,2015
+Gevgelija,6,11,Turkish,2015
+Gostivar,142,437,Turkish,2015
+Debar,52,254,Turkish,2015
+Delchevo,2,5,Turkish,2015
+Demir Hisar,2,2,Turkish,2015
+Kavadarci,9,3,Turkish,2015
+Kichevo,107,231,Turkish,2015
+Kochani,4,4,Turkish,2015
+Kratovo,0,0,Turkish,2015
+Kriva Palanka,0,0,Turkish,2015
+Krushevo,2,22,Turkish,2015
+Kumanovo,4,15,Turkish,2015
+Makedonski Brod,41,230,Turkish,2015
+Negotino,5,13,Turkish,2015
+Ohrid,71,78,Turkish,2015
+Prilep,38,105,Turkish,2015
+Probishtip,0,0,Turkish,2015
+Radovish,83,170,Turkish,2015
+Resen,42,83,Turkish,2015
+Sveti Nikole,2,8,Turkish,2015
+Skopje,79,203,Turkish,2015
+Struga,22,22,Turkish,2015
+Strumica,102,377,Turkish,2015
+Tetovo,43,57,Turkish,2015
+Shtip,23,51,Turkish,2015
+Berovo ,43,81,Roma,2015
+Bitola,177,190,Roma,2015
+Valandovo,1,1,Roma,2015
+Veles,25,67,Roma,2015
+Vinica,34,101,Roma,2015
+Gevgelija,2,5,Roma,2015
+Gostivar,117,291,Roma,2015
+Debar,48,157,Roma,2015
+Delchevo,39,60,Roma,2015
+Demir Hisar,0,0,Roma,2015
+Kavadarci,62,79,Roma,2015
+Kichevo,87,237,Roma,2015
+Kochani,85,183,Roma,2015
+Kratovo,10,13,Roma,2015
+Kriva Palanka,42,62,Roma,2015
+Krushevo,2,6,Roma,2015
+Kumanovo,125,281,Roma,2015
+Makedonski Brod,0,0,Roma,2015
+Negotino,11,18,Roma,2015
+Ohrid,29,35,Roma,2015
+Prilep,325,454,Roma,2015
+Probishtip,1,3,Roma,2015
+Radovish,3,5,Roma,2015
+Resen,13,38,Roma,2015
+Sveti Nikole,4,4,Roma,2015
+Skopje,637,1015,Roma,2015
+Struga,12,15,Roma,2015
+Strumica,2,3,Roma,2015
+Tetovo,76,169,Roma,2015
+Shtip,114,143,Roma,2015
+Berovo ,3,2,Serbian,2015
+Bitola,7,11,Serbian,2015
+Valandovo,11,23,Serbian,2015
+Veles,3,3,Serbian,2015
+Vinica,0,0,Serbian,2015
+Gevgelija,11,18,Serbian,2015
+Gostivar,1,3,Serbian,2015
+Debar,0,0,Serbian,2015
+Delchevo,0,1,Serbian,2015
+Demir Hisar,0,0,Serbian,2015
+Kavadarci,5,15,Serbian,2015
+Kichevo,1,2,Serbian,2015
+Kochani,0,0,Serbian,2015
+Kratovo,1,0,Serbian,2015
+Kriva Palanka,1,2,Serbian,2015
+Krushevo,1,0,Serbian,2015
+Kumanovo,197,246,Serbian,2015
+Makedonski Brod,0,1,Serbian,2015
+Negotino,6,6,Serbian,2015
+Ohrid,5,3,Serbian,2015
+Prilep,6,2,Serbian,2015
+Probishtip,2,3,Serbian,2015
+Radovish,0,1,Serbian,2015
+Resen,1,9,Serbian,2015
+Sveti Nikole,1,0,Serbian,2015
+Skopje,87,132,Serbian,2015
+Struga,2,5,Serbian,2015
+Strumica,0,2,Serbian,2015
+Tetovo,9,20,Serbian,2015
+Shtip,0,3,Serbian,2015
+Berovo ,1,0,Vlachs,2015
+Bitola,9,14,Vlachs,2015
+Valandovo,0,0,Vlachs,2015
+Veles,1,0,Vlachs,2015
+Vinica,1,4,Vlachs,2015
+Gevgelija,0,2,Vlachs,2015
+Gostivar,0,0,Vlachs,2015
+Debar,0,0,Vlachs,2015
+Delchevo,0,0,Vlachs,2015
+Demir Hisar,0,0,Vlachs,2015
+Kavadarci,1,0,Vlachs,2015
+Kichevo,0,2,Vlachs,2015
+Kochani,4,4,Vlachs,2015
+Kratovo,0,0,Vlachs,2015
+Kriva Palanka,0,0,Vlachs,2015
+Krushevo,45,61,Vlachs,2015
+Kumanovo,2,3,Vlachs,2015
+Makedonski Brod,0,0,Vlachs,2015
+Negotino,0,0,Vlachs,2015
+Ohrid,0,1,Vlachs,2015
+Prilep,0,0,Vlachs,2015
+Probishtip,0,0,Vlachs,2015
+Radovish,0,0,Vlachs,2015
+Resen,0,0,Vlachs,2015
+Sveti Nikole,5,2,Vlachs,2015
+Skopje,12,17,Vlachs,2015
+Struga,1,6,Vlachs,2015
+Strumica,0,0,Vlachs,2015
+Tetovo,0,0,Vlachs,2015
+Shtip,29,37,Vlachs,2015
+Berovo ,0,0,Bosniak,2015
+Bitola,1,0,Bosniak,2015
+Valandovo,0,0,Bosniak,2015
+Veles,9,12,Bosniak,2015
+Vinica,0,0,Bosniak,2015
+Gevgelija,0,0,Bosniak,2015
+Gostivar,1,0,Bosniak,2015
+Debar,0,0,Bosniak,2015
+Delchevo,1,0,Bosniak,2015
+Demir Hisar,0,0,Bosniak,2015
+Kavadarci,1,0,Bosniak,2015
+Kichevo,0,1,Bosniak,2015
+Kochani,0,0,Bosniak,2015
+Kratovo,0,0,Bosniak,2015
+Kriva Palanka,0,0,Bosniak,2015
+Krushevo,5,0,Bosniak,2015
+Kumanovo,0,0,Bosniak,2015
+Makedonski Brod,0,0,Bosniak,2015
+Negotino,0,0,Bosniak,2015
+Ohrid,0,0,Bosniak,2015
+Prilep,16,34,Bosniak,2015
+Probishtip,0,0,Bosniak,2015
+Radovish,0,0,Bosniak,2015
+Resen,0,0,Bosniak,2015
+Sveti Nikole,1,1,Bosniak,2015
+Skopje,74,73,Bosniak,2015
+Struga,0,0,Bosniak,2015
+Strumica,0,0,Bosniak,2015
+Tetovo,1,3,Bosniak,2015
+Shtip,0,0,Bosniak,2015
+Berovo ,2,2,Other,2015
+Bitola,33,41,Other,2015
+Valandovo,2,3,Other,2015
+Veles,45,125,Other,2015
+Vinica,1,3,Other,2015
+Gevgelija,0,1,Other,2015
+Gostivar,88,344,Other,2015
+Debar,74,353,Other,2015
+Delchevo,0,1,Other,2015
+Demir Hisar,1,0,Other,2015
+Kavadarci,8,11,Other,2015
+Kichevo,13,40,Other,2015
+Kochani,2,4,Other,2015
+Kratovo,1,0,Other,2015
+Kriva Palanka,5,2,Other,2015
+Krushevo,9,13,Other,2015
+Kumanovo,11,16,Other,2015
+Makedonski Brod,0,1,Other,2015
+Negotino,10,11,Other,2015
+Ohrid,102,133,Other,2015
+Prilep,24,38,Other,2015
+Probishtip,1,1,Other,2015
+Radovish,0,0,Other,2015
+Resen,15,22,Other,2015
+Sveti Nikole,1,4,Other,2015
+Skopje,135,130,Other,2015
+Struga,67,174,Other,2015
+Strumica,1,3,Other,2015
+Tetovo,17,42,Other,2015
+Shtip,8,6,Other,2015

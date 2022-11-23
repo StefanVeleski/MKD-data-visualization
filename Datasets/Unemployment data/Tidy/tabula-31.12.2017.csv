@@ -1,0 +1,241 @@
+Municipality,Women,Men,Ethnicity,Year
+Berovo ,508,588,Macedonian,2017
+Bitola,2442,2362,Macedonian,2017
+Valandovo,205,304,Macedonian,2017
+Veles,1415,1677,Macedonian,2017
+Vinica,194,364,Macedonian,2017
+Gevgelija,382,523,Macedonian,2017
+Gostivar,746,870,Macedonian,2017
+Debar,23,30,Macedonian,2017
+Delchevo,642,696,Macedonian,2017
+Demir Hisar,453,444,Macedonian,2017
+Kavadarci,876,950,Macedonian,2017
+Kichevo,810,781,Macedonian,2017
+Kochani,819,1429,Macedonian,2017
+Kratovo,353,360,Macedonian,2017
+Kriva Palanka,1573,1260,Macedonian,2017
+Krushevo,230,311,Macedonian,2017
+Kumanovo,2476,2472,Macedonian,2017
+Makedonski Brod,461,492,Macedonian,2017
+Negotino,518,714,Macedonian,2017
+Ohrid,1457,1604,Macedonian,2017
+Prilep,2880,3303,Macedonian,2017
+Probishtip,515,652,Macedonian,2017
+Radovish,556,619,Macedonian,2017
+Resen,500,615,Macedonian,2017
+Sveti Nikole,508,775,Macedonian,2017
+Skopje,4351,4359,Macedonian,2017
+Struga,867,980,Macedonian,2017
+Strumica,1153,1335,Macedonian,2017
+Tetovo,1290,1648,Macedonian,2017
+Shtip,856,1072,Macedonian,2017
+Berovo ,0,0,Albanian,2017
+Bitola,88,118,Albanian,2017
+Valandovo,0,1,Albanian,2017
+Veles,63,257,Albanian,2017
+Vinica,0,0,Albanian,2017
+Gevgelija,1,3,Albanian,2017
+Gostivar,922,2044,Albanian,2017
+Debar,264,449,Albanian,2017
+Delchevo,2,0,Albanian,2017
+Demir Hisar,13,6,Albanian,2017
+Kavadarci,5,0,Albanian,2017
+Kichevo,372,544,Albanian,2017
+Kochani,1,0,Albanian,2017
+Kratovo,0,0,Albanian,2017
+Kriva Palanka,1,0,Albanian,2017
+Krushevo,29,173,Albanian,2017
+Kumanovo,961,2957,Albanian,2017
+Makedonski Brod,6,1,Albanian,2017
+Negotino,4,0,Albanian,2017
+Ohrid,50,80,Albanian,2017
+Prilep,53,121,Albanian,2017
+Probishtip,0,0,Albanian,2017
+Radovish,1,0,Albanian,2017
+Resen,41,59,Albanian,2017
+Sveti Nikole,0,2,Albanian,2017
+Skopje,1698,3851,Albanian,2017
+Struga,395,591,Albanian,2017
+Strumica,2,0,Albanian,2017
+Tetovo,2660,6390,Albanian,2017
+Shtip,0,1,Albanian,2017
+Berovo ,11,23,Turkish,2017
+Bitola,74,70,Turkish,2017
+Valandovo,43,72,Turkish,2017
+Veles,60,112,Turkish,2017
+Vinica,4,14,Turkish,2017
+Gevgelija,2,9,Turkish,2017
+Gostivar,132,464,Turkish,2017
+Debar,43,190,Turkish,2017
+Delchevo,2,5,Turkish,2017
+Demir Hisar,3,1,Turkish,2017
+Kavadarci,7,4,Turkish,2017
+Kichevo,99,228,Turkish,2017
+Kochani,3,5,Turkish,2017
+Kratovo,0,0,Turkish,2017
+Kriva Palanka,1,0,Turkish,2017
+Krushevo,4,19,Turkish,2017
+Kumanovo,6,18,Turkish,2017
+Makedonski Brod,49,192,Turkish,2017
+Negotino,8,15,Turkish,2017
+Ohrid,60,74,Turkish,2017
+Prilep,53,109,Turkish,2017
+Probishtip,1,0,Turkish,2017
+Radovish,131,185,Turkish,2017
+Resen,41,94,Turkish,2017
+Sveti Nikole,5,8,Turkish,2017
+Skopje,68,187,Turkish,2017
+Struga,20,30,Turkish,2017
+Strumica,184,654,Turkish,2017
+Tetovo,32,48,Turkish,2017
+Shtip,31,47,Turkish,2017
+Berovo ,59,78,Roma,2017
+Bitola,223,221,Roma,2017
+Valandovo,1,1,Roma,2017
+Veles,45,68,Roma,2017
+Vinica,54,102,Roma,2017
+Gevgelija,4,4,Roma,2017
+Gostivar,130,290,Roma,2017
+Debar,64,192,Roma,2017
+Delchevo,42,50,Roma,2017
+Demir Hisar,0,0,Roma,2017
+Kavadarci,54,64,Roma,2017
+Kichevo,97,226,Roma,2017
+Kochani,84,176,Roma,2017
+Kratovo,12,10,Roma,2017
+Kriva Palanka,38,51,Roma,2017
+Krushevo,1,5,Roma,2017
+Kumanovo,128,280,Roma,2017
+Makedonski Brod,0,0,Roma,2017
+Negotino,8,21,Roma,2017
+Ohrid,25,35,Roma,2017
+Prilep,332,417,Roma,2017
+Probishtip,1,2,Roma,2017
+Radovish,10,2,Roma,2017
+Resen,15,33,Roma,2017
+Sveti Nikole,2,6,Roma,2017
+Skopje,731,1113,Roma,2017
+Struga,14,16,Roma,2017
+Strumica,1,6,Roma,2017
+Tetovo,76,168,Roma,2017
+Shtip,115,124,Roma,2017
+Berovo ,4,1,Serbian,2017
+Bitola,7,5,Serbian,2017
+Valandovo,7,19,Serbian,2017
+Veles,0,7,Serbian,2017
+Vinica,0,0,Serbian,2017
+Gevgelija,7,10,Serbian,2017
+Gostivar,2,2,Serbian,2017
+Debar,0,0,Serbian,2017
+Delchevo,0,0,Serbian,2017
+Demir Hisar,1,0,Serbian,2017
+Kavadarci,7,11,Serbian,2017
+Kichevo,2,0,Serbian,2017
+Kochani,2,0,Serbian,2017
+Kratovo,0,0,Serbian,2017
+Kriva Palanka,0,3,Serbian,2017
+Krushevo,1,0,Serbian,2017
+Kumanovo,191,277,Serbian,2017
+Makedonski Brod,0,0,Serbian,2017
+Negotino,4,3,Serbian,2017
+Ohrid,8,2,Serbian,2017
+Prilep,1,1,Serbian,2017
+Probishtip,1,2,Serbian,2017
+Radovish,1,2,Serbian,2017
+Resen,1,9,Serbian,2017
+Sveti Nikole,2,0,Serbian,2017
+Skopje,61,90,Serbian,2017
+Struga,2,3,Serbian,2017
+Strumica,0,3,Serbian,2017
+Tetovo,12,17,Serbian,2017
+Shtip,2,3,Serbian,2017
+Berovo ,0,0,Vlachs,2017
+Bitola,6,11,Vlachs,2017
+Valandovo,0,0,Vlachs,2017
+Veles,3,0,Vlachs,2017
+Vinica,0,2,Vlachs,2017
+Gevgelija,0,1,Vlachs,2017
+Gostivar,0,0,Vlachs,2017
+Debar,0,0,Vlachs,2017
+Delchevo,0,0,Vlachs,2017
+Demir Hisar,0,0,Vlachs,2017
+Kavadarci,1,1,Vlachs,2017
+Kichevo,1,1,Vlachs,2017
+Kochani,2,3,Vlachs,2017
+Kratovo,0,0,Vlachs,2017
+Kriva Palanka,1,0,Vlachs,2017
+Krushevo,44,52,Vlachs,2017
+Kumanovo,0,0,Vlachs,2017
+Makedonski Brod,0,0,Vlachs,2017
+Negotino,0,0,Vlachs,2017
+Ohrid,0,0,Vlachs,2017
+Prilep,1,0,Vlachs,2017
+Probishtip,0,0,Vlachs,2017
+Radovish,0,0,Vlachs,2017
+Resen,0,0,Vlachs,2017
+Sveti Nikole,4,3,Vlachs,2017
+Skopje,9,8,Vlachs,2017
+Struga,1,4,Vlachs,2017
+Strumica,0,0,Vlachs,2017
+Tetovo,0,0,Vlachs,2017
+Shtip,34,48,Vlachs,2017
+Berovo ,0,0,Bosniak,2017
+Bitola,1,0,Bosniak,2017
+Valandovo,0,0,Bosniak,2017
+Veles,15,21,Bosniak,2017
+Vinica,0,0,Bosniak,2017
+Gevgelija,0,0,Bosniak,2017
+Gostivar,0,0,Bosniak,2017
+Debar,0,0,Bosniak,2017
+Delchevo,0,0,Bosniak,2017
+Demir Hisar,0,0,Bosniak,2017
+Kavadarci,1,0,Bosniak,2017
+Kichevo,0,1,Bosniak,2017
+Kochani,0,0,Bosniak,2017
+Kratovo,0,1,Bosniak,2017
+Kriva Palanka,0,0,Bosniak,2017
+Krushevo,5,2,Bosniak,2017
+Kumanovo,0,0,Bosniak,2017
+Makedonski Brod,0,0,Bosniak,2017
+Negotino,0,0,Bosniak,2017
+Ohrid,0,0,Bosniak,2017
+Prilep,24,33,Bosniak,2017
+Probishtip,0,0,Bosniak,2017
+Radovish,0,0,Bosniak,2017
+Resen,0,0,Bosniak,2017
+Sveti Nikole,0,2,Bosniak,2017
+Skopje,81,74,Bosniak,2017
+Struga,1,1,Bosniak,2017
+Strumica,0,0,Bosniak,2017
+Tetovo,1,2,Bosniak,2017
+Shtip,1,0,Bosniak,2017
+Berovo ,1,1,Other,2017
+Bitola,36,44,Other,2017
+Valandovo,2,3,Other,2017
+Veles,47,149,Other,2017
+Vinica,0,3,Other,2017
+Gevgelija,2,0,Other,2017
+Gostivar,105,287,Other,2017
+Debar,71,257,Other,2017
+Delchevo,1,0,Other,2017
+Demir Hisar,0,0,Other,2017
+Kavadarci,9,5,Other,2017
+Kichevo,14,38,Other,2017
+Kochani,1,1,Other,2017
+Kratovo,1,0,Other,2017
+Kriva Palanka,6,1,Other,2017
+Krushevo,6,10,Other,2017
+Kumanovo,17,8,Other,2017
+Makedonski Brod,0,0,Other,2017
+Negotino,7,9,Other,2017
+Ohrid,89,100,Other,2017
+Prilep,22,30,Other,2017
+Probishtip,3,1,Other,2017
+Radovish,0,1,Other,2017
+Resen,16,19,Other,2017
+Sveti Nikole,2,1,Other,2017
+Skopje,125,126,Other,2017
+Struga,71,160,Other,2017
+Strumica,2,2,Other,2017
+Tetovo,13,38,Other,2017
+Shtip,7,11,Other,2017
