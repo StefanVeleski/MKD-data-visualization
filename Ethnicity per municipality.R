@@ -84,4 +84,7 @@ p <- ggplot(ethnicity_data) +
 
 p
 
+ggsave(file = "Plots/The ethnic makeup of Macedonia according to the 2021 census.jpg", dpi = 300)
+
+
 ggplotly(p) # Creating an interactive plot
