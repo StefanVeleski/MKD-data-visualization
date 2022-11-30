@@ -43,7 +43,9 @@ macedonia_new$Change <- (macedonia_new$`Total resident population 2021`-macedoni
 
 macedonia_new$Change <- round(macedonia_new$Change, 4) # Round to four decimal places
 
-limit <- max(abs(macedonia_new$Change)) * c(-1, 1) # Centering color palette so that white = 0
+# Centering color palette so that white = 0
+
+limit <- max(abs(macedonia_new$Change)) * c(-1, 1)
 
 # Plotting 
 

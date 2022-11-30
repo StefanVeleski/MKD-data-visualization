@@ -1,0 +1,961 @@
+Ethnicity,Total,Male,Female,Municipality
+Total,77735,37153,40582,Aerodrom
+Macedonians,66245,31305,34940,Aerodrom
+Albanians,851,406,445,Aerodrom
+Turks,464,238,226,Aerodrom
+Roma,459,238,221,Aerodrom
+Vlachs,652,321,331,Aerodrom
+Serbs,2155,1110,1045,Aerodrom
+Bosniaks,403,198,205,Aerodrom
+Other,1157,593,564,Aerodrom
+Undeclared,62,31,31,Aerodrom
+Unknown,39,18,21,Aerodrom
+Admin,5248,2695,2553,Aerodrom
+Total,37968,18738,19230,Butel
+Macedonians,17011,8267,8744,Butel
+Albanians,14095,6989,7106,Butel
+Turks,1314,672,642,Butel
+Roma,501,269,232,Butel
+Vlachs,73,31,42,Butel
+Serbs,606,318,288,Butel
+Bosniaks,1133,557,576,Butel
+Other,565,303,262,Butel
+Undeclared,8,6,2,Butel
+Unknown,9,5,4,Butel
+Admin,2653,1321,1332,Butel
+Total,69626,34465,35161,Gazi Baba
+Macedonians,45242,22058,23184,Gazi Baba
+Albanians,14146,7218,6928,Gazi Baba
+Turks,468,231,237,Gazi Baba
+Roma,1922,986,936,Gazi Baba
+Vlachs,185,89,96,Gazi Baba
+Serbs,1328,712,616,Gazi Baba
+Bosniaks,753,366,387,Gazi Baba
+Other,554,269,285,Gazi Baba
+Undeclared,16,8,8,Gazi Baba
+Unknown,10,6,4,Gazi Baba
+Admin,5002,2522,2480,Gazi Baba
+Total,44844,22005,22839,Gjorche Petrov
+Macedonians,35971,17445,18526,Gjorche Petrov
+Albanians,1765,867,898,Gjorche Petrov
+Turks,272,139,133,Gjorche Petrov
+Roma,1068,549,519,Gjorche Petrov
+Vlachs,156,70,86,Gjorche Petrov
+Serbs,1266,697,569,Gjorche Petrov
+Bosniaks,459,220,239,Gjorche Petrov
+Other,531,280,251,Gjorche Petrov
+Undeclared,27,11,16,Gjorche Petrov
+Unknown,18,11,7,Gjorche Petrov
+Admin,3311,1716,1595,Gjorche Petrov
+Total,63760,30127,33633,Karposh
+Macedonians,51609,24121,27488,Karposh
+Albanians,2324,1182,1142,Karposh
+Turks,443,215,228,Karposh
+Roma,600,300,300,Karposh
+Vlachs,483,232,251,Karposh
+Serbs,1635,806,829,Karposh
+Bosniaks,192,86,106,Karposh
+Other,992,519,473,Karposh
+Undeclared,75,45,30,Karposh
+Unknown,59,39,20,Karposh
+Admin,5348,2582,2766,Karposh
+Total,61965,29961,32004,Kisela Voda
+Macedonians,52030,25006,27024,Kisela Voda
+Albanians,418,202,216,Kisela Voda
+Turks,732,388,344,Kisela Voda
+Roma,467,223,244,Kisela Voda
+Vlachs,636,327,309,Kisela Voda
+Serbs,953,469,484,Kisela Voda
+Bosniaks,581,285,296,Kisela Voda
+Other,653,333,320,Kisela Voda
+Undeclared,15,8,7,Kisela Voda
+Unknown,41,26,15,Kisela Voda
+Admin,5439,2694,2745,Kisela Voda
+Total,38399,19419,18980,Saraj
+Macedonians,1005,492,513,Saraj
+Albanians,34586,17544,17042,Saraj
+Turks,28,9,19,Saraj
+Roma,255,136,119,Saraj
+Vlachs,4,3,1,Saraj
+Serbs,10,3,7,Saraj
+Bosniaks,1043,517,526,Saraj
+Other,16,7,9,Saraj
+Undeclared,0,0,0,Saraj
+Unknown,2,0,2,Saraj
+Admin,1450,708,742,Saraj
+Total,43893,20389,23504,Centar
+Macedonians,33731,15475,18256,Centar
+Albanians,1100,575,525,Centar
+Turks,548,280,268,Centar
+Roma,622,273,349,Centar
+Vlachs,552,246,306,Centar
+Serbs,1301,632,669,Centar
+Bosniaks,171,77,94,Centar
+Other,765,398,367,Centar
+Undeclared,51,22,29,Centar
+Unknown,39,21,18,Centar
+Admin,5013,2390,2623,Centar
+Total,62586,31032,31554,Chair
+Macedonians,5357,2472,2885,Chair
+Albanians,42180,21037,21143,Chair
+Turks,4182,2111,2071,Chair
+Roma,1337,684,653,Chair
+Vlachs,37,19,18,Chair
+Serbs,202,98,104,Chair
+Bosniaks,2531,1196,1335,Chair
+Other,500,237,263,Chair
+Undeclared,1,1,0,Chair
+Unknown,33,18,15,Chair
+Admin,6226,3159,3067,Chair
+Total,25726,12958,12768,Shuto Orizari
+Macedonians,906,457,449,Shuto Orizari
+Albanians,8828,4520,4308,Shuto Orizari
+Turks,73,44,29,Shuto Orizari
+Roma,11267,5646,5621,Shuto Orizari
+Vlachs,0,0,0,Shuto Orizari
+Serbs,22,14,8,Shuto Orizari
+Bosniaks,99,45,54,Shuto Orizari
+Other,44,23,21,Shuto Orizari
+Undeclared,0,0,0,Shuto Orizari
+Unknown,2,2,0,Shuto Orizari
+Admin,4485,2207,2278,Shuto Orizari
+Total,12676,6557,6119,Arachinovo
+Macedonians,7,4,3,Arachinovo
+Albanians,12353,6393,5960,Arachinovo
+Turks,0,0,0,Arachinovo
+Roma,0,0,0,Arachinovo
+Vlachs,0,0,0,Arachinovo
+Serbs,0,0,0,Arachinovo
+Bosniaks,4,1,3,Arachinovo
+Other,2,0,2,Arachinovo
+Undeclared,0,0,0,Arachinovo
+Unknown,0,0,0,Arachinovo
+Admin,310,159,151,Arachinovo
+Total,10890,5447,5443,Berovo
+Macedonians,9925,4963,4962,Berovo
+Albanians,1,0,1,Berovo
+Turks,60,26,34,Berovo
+Roma,339,161,178,Berovo
+Vlachs,1,0,1,Berovo
+Serbs,10,1,9,Berovo
+Bosniaks,6,4,2,Berovo
+Other,42,26,16,Berovo
+Undeclared,2,0,2,Berovo
+Unknown,2,1,1,Berovo
+Admin,502,265,237,Berovo
+Total,85164,41845,43319,Bitola
+Macedonians,69182,33629,35553,Bitola
+Albanians,4018,2032,1986,Bitola
+Turks,1174,607,567,Bitola
+Roma,2890,1488,1402,Bitola
+Vlachs,1205,632,573,Bitola
+Serbs,359,215,144,Bitola
+Bosniaks,49,22,27,Bitola
+Other,750,401,349,Bitola
+Undeclared,17,9,8,Bitola
+Unknown,15,7,8,Bitola
+Admin,5505,2803,2702,Bitola
+Total,7339,3722,3617,Bogdanci
+Macedonians,6665,3353,3312,Bogdanci
+Albanians,1,0,1,Bogdanci
+Turks,38,20,18,Bogdanci
+Roma,12,8,4,Bogdanci
+Vlachs,4,1,3,Bogdanci
+Serbs,275,163,112,Bogdanci
+Bosniaks,1,1,0,Bogdanci
+Other,44,29,15,Bogdanci
+Undeclared,3,2,1,Bogdanci
+Unknown,1,1,0,Bogdanci
+Admin,295,144,151,Bogdanci
+Total,22906,11443,11463,Bogovinje
+Macedonians,16,7,9,Bogovinje
+Albanians,20475,10229,10246,Bogovinje
+Turks,803,412,391,Bogovinje
+Roma,0,0,0,Bogovinje
+Vlachs,1,1,0,Bogovinje
+Serbs,2,0,2,Bogovinje
+Bosniaks,6,0,6,Bogovinje
+Other,35,21,14,Bogovinje
+Undeclared,0,0,0,Bogovinje
+Unknown,1,0,1,Bogovinje
+Admin,1567,773,794,Bogovinje
+Total,11508,5857,5651,Bosilovo
+Macedonians,9762,4971,4791,Bosilovo
+Albanians,7,0,7,Bosilovo
+Turks,677,343,334,Bosilovo
+Roma,16,10,6,Bosilovo
+Vlachs,0,0,0,Bosilovo
+Serbs,6,2,4,Bosilovo
+Bosniaks,0,0,0,Bosilovo
+Other,15,9,6,Bosilovo
+Undeclared,0,0,0,Bosilovo
+Unknown,0,0,0,Bosilovo
+Admin,1025,522,503,Bosilovo
+Total,13645,6796,6849,Brvenica
+Macedonians,5715,2944,2771,Brvenica
+Albanians,7377,3595,3782,Brvenica
+Turks,0,0,0,Brvenica
+Roma,1,1,0,Brvenica
+Vlachs,0,0,0,Brvenica
+Serbs,40,24,16,Brvenica
+Bosniaks,6,0,6,Brvenica
+Other,28,14,14,Brvenica
+Undeclared,0,0,0,Brvenica
+Unknown,1,1,0,Brvenica
+Admin,477,217,260,Brvenica
+Total,10508,5399,5109,Valandovo
+Macedonians,8166,4128,4038,Valandovo
+Albanians,10,1,9,Valandovo
+Turks,1412,750,662,Valandovo
+Roma,24,17,7,Valandovo
+Vlachs,0,0,0,Valandovo
+Serbs,469,284,185,Valandovo
+Bosniaks,4,0,4,Valandovo
+Other,57,34,23,Valandovo
+Undeclared,0,0,0,Valandovo
+Unknown,2,0,2,Valandovo
+Admin,364,185,179,Valandovo
+Total,10552,5380,5172,Vasilevo
+Macedonians,6831,3471,3360,Vasilevo
+Albanians,3,0,3,Vasilevo
+Turks,2251,1172,1079,Vasilevo
+Roma,27,11,16,Vasilevo
+Vlachs,0,0,0,Vasilevo
+Serbs,4,2,2,Vasilevo
+Bosniaks,0,0,0,Vasilevo
+Other,99,50,49,Vasilevo
+Undeclared,0,0,0,Vasilevo
+Unknown,0,0,0,Vasilevo
+Admin,1337,674,663,Vasilevo
+Total,2359,1182,1177,Vevchani
+Macedonians,2252,1129,1123,Vevchani
+Albanians,14,5,9,Vevchani
+Turks,0,0,0,Vevchani
+Roma,0,0,0,Vevchani
+Vlachs,4,2,2,Vevchani
+Serbs,3,2,1,Vevchani
+Bosniaks,0,0,0,Vevchani
+Other,6,2,4,Vevchani
+Undeclared,0,0,0,Vevchani
+Unknown,0,0,0,Vevchani
+Admin,80,42,38,Vevchani
+Total,48463,24102,24361,Veles
+Macedonians,36825,18132,18693,Veles
+Albanians,2736,1412,1324,Veles
+Turks,1037,527,510,Veles
+Roma,507,274,233,Veles
+Vlachs,270,151,119,Veles
+Serbs,267,145,122,Veles
+Bosniaks,1825,904,921,Veles
+Other,271,153,118,Veles
+Undeclared,0,0,0,Veles
+Unknown,7,5,2,Veles
+Admin,4718,2399,2319,Veles
+Total,14475,7219,7256,Vinica
+Macedonians,11929,5930,5999,Vinica
+Albanians,8,0,8,Vinica
+Turks,173,94,79,Vinica
+Roma,744,374,370,Vinica
+Vlachs,89,51,38,Vinica
+Serbs,17,4,13,Vinica
+Bosniaks,0,0,0,Vinica
+Other,68,33,35,Vinica
+Undeclared,6,3,3,Vinica
+Unknown,4,2,2,Vinica
+Admin,1437,728,709,Vinica
+Total,19842,9744,10098,Vrapchishte
+Macedonians,875,447,428,Vrapchishte
+Albanians,15109,7439,7670,Vrapchishte
+Turks,3099,1502,1597,Vrapchishte
+Roma,3,1,2,Vrapchishte
+Vlachs,0,0,0,Vrapchishte
+Serbs,6,1,5,Vrapchishte
+Bosniaks,9,0,9,Vrapchishte
+Other,6,2,4,Vrapchishte
+Undeclared,0,0,0,Vrapchishte
+Unknown,1,1,0,Vrapchishte
+Admin,734,351,383,Vrapchishte
+Total,21582,10700,10882,Gevgelija
+Macedonians,19778,9736,10042,Gevgelija
+Albanians,20,4,16,Gevgelija
+Turks,59,37,22,Gevgelija
+Roma,21,11,10,Gevgelija
+Vlachs,266,156,110,Gevgelija
+Serbs,217,125,92,Gevgelija
+Bosniaks,8,5,3,Gevgelija
+Other,162,87,75,Gevgelija
+Undeclared,2,2,0,Gevgelija
+Unknown,2,2,0,Gevgelija
+Admin,1047,535,512,Gevgelija
+Total,59770,29321,30449,Gostivar
+Macedonians,12807,6342,6465,Gostivar
+Albanians,33076,16126,16950,Gostivar
+Turks,7597,3789,3808,Gostivar
+Roma,2273,1144,1129,Gostivar
+Vlachs,17,10,7,Gostivar
+Serbs,73,36,37,Gostivar
+Bosniaks,25,7,18,Gostivar
+Other,487,237,250,Gostivar
+Undeclared,2,1,1,Gostivar
+Unknown,4,3,1,Gostivar
+Admin,3409,1626,1783,Gostivar
+Total,3233,1680,1553,Gradsko
+Macedonians,2340,1219,1121,Gradsko
+Albanians,92,51,41,Gradsko
+Turks,79,48,31,Gradsko
+Roma,183,98,85,Gradsko
+Vlachs,0,0,0,Gradsko
+Serbs,13,7,6,Gradsko
+Bosniaks,349,175,174,Gradsko
+Other,44,20,24,Gradsko
+Undeclared,0,0,0,Gradsko
+Unknown,0,0,0,Gradsko
+Admin,133,62,71,Gradsko
+Total,15412,7677,7735,Debar
+Macedonians,1155,595,560,Debar
+Albanians,8438,4235,4203,Debar
+Turks,2733,1352,1381,Debar
+Roma,1140,555,585,Debar
+Vlachs,2,2,0,Debar
+Serbs,5,1,4,Debar
+Bosniaks,8,3,5,Debar
+Other,424,216,208,Debar
+Undeclared,2,1,1,Debar
+Unknown,6,5,1,Debar
+Admin,1499,712,787,Debar
+Total,3719,1887,1832,Debarca
+Macedonians,3330,1695,1635,Debarca
+Albanians,59,29,30,Debarca
+Turks,2,1,1,Debarca
+Roma,0,0,0,Debarca
+Vlachs,0,0,0,Debarca
+Serbs,1,0,1,Debarca
+Bosniaks,3,2,1,Debarca
+Other,8,6,2,Debarca
+Undeclared,0,0,0,Debarca
+Unknown,0,0,0,Debarca
+Admin,316,154,162,Debarca
+Total,13585,6806,6779,Delchevo
+Macedonians,11949,5985,5964,Delchevo
+Albanians,20,3,17,Delchevo
+Turks,112,58,54,Delchevo
+Roma,475,244,231,Delchevo
+Vlachs,5,3,2,Delchevo
+Serbs,9,5,4,Delchevo
+Bosniaks,2,1,1,Delchevo
+Other,108,57,51,Delchevo
+Undeclared,0,0,0,Delchevo
+Unknown,0,0,0,Delchevo
+Admin,905,450,455,Delchevo
+Total,3777,1949,1828,Demir Kapija
+Macedonians,3076,1584,1492,Demir Kapija
+Albanians,14,1,13,Demir Kapija
+Turks,376,208,168,Demir Kapija
+Roma,37,20,17,Demir Kapija
+Vlachs,2,2,0,Demir Kapija
+Serbs,130,66,64,Demir Kapija
+Bosniaks,1,0,1,Demir Kapija
+Other,26,14,12,Demir Kapija
+Undeclared,0,0,0,Demir Kapija
+Unknown,0,0,0,Demir Kapija
+Admin,115,54,61,Demir Kapija
+Total,7260,3755,3505,Demir Hisar
+Macedonians,6708,3458,3250,Demir Hisar
+Albanians,218,107,111,Demir Hisar
+Turks,4,4,0,Demir Hisar
+Roma,16,12,4,Demir Hisar
+Vlachs,10,6,4,Demir Hisar
+Serbs,6,1,5,Demir Hisar
+Bosniaks,0,0,0,Demir Hisar
+Other,27,19,8,Demir Hisar
+Undeclared,1,1,0,Demir Hisar
+Unknown,1,1,0,Demir Hisar
+Admin,269,146,123,Demir Hisar
+Total,3084,1569,1515,Star Dojran
+Macedonians,2528,1264,1264,Star Dojran
+Albanians,15,9,6,Star Dojran
+Turks,211,120,91,Star Dojran
+Roma,30,14,16,Star Dojran
+Vlachs,3,3,0,Star Dojran
+Serbs,152,86,66,Star Dojran
+Bosniaks,1,0,1,Star Dojran
+Other,24,17,7,Star Dojran
+Undeclared,0,0,0,Star Dojran
+Unknown,0,0,0,Star Dojran
+Admin,120,56,64,Star Dojran
+Total,13126,6855,6271,Dolneni
+Macedonians,3831,2041,1790,Dolneni
+Albanians,4442,2268,2174,Dolneni
+Turks,2434,1303,1131,Dolneni
+Roma,0,0,0,Dolneni
+Vlachs,7,4,3,Dolneni
+Serbs,13,6,7,Dolneni
+Bosniaks,2006,1031,975,Dolneni
+Other,21,15,6,Dolneni
+Undeclared,0,0,0,Dolneni
+Unknown,0,0,0,Dolneni
+Admin,372,187,185,Dolneni
+Total,18988,9370,9618,Zhelino
+Macedonians,9,6,3,Zhelino
+Albanians,18191,8983,9208,Zhelino
+Turks,0,0,0,Zhelino
+Roma,0,0,0,Zhelino
+Vlachs,0,0,0,Zhelino
+Serbs,0,0,0,Zhelino
+Bosniaks,1,0,1,Zhelino
+Other,3,2,1,Zhelino
+Undeclared,0,0,0,Zhelino
+Unknown,0,0,0,Zhelino
+Admin,784,379,405,Zhelino
+Total,3361,1738,1623,Zelenikovo
+Macedonians,2407,1222,1185,Zelenikovo
+Albanians,415,220,195,Zelenikovo
+Turks,5,1,4,Zelenikovo
+Roma,44,25,19,Zelenikovo
+Vlachs,0,0,0,Zelenikovo
+Serbs,46,21,25,Zelenikovo
+Bosniaks,187,108,79,Zelenikovo
+Other,9,5,4,Zelenikovo
+Undeclared,1,0,1,Zelenikovo
+Unknown,2,2,0,Zelenikovo
+Admin,245,134,111,Zelenikovo
+Total,2086,1048,1038,Zrnovci
+Macedonians,1985,1001,984,Zrnovci
+Albanians,2,0,2,Zrnovci
+Turks,0,0,0,Zrnovci
+Roma,0,0,0,Zrnovci
+Vlachs,3,2,1,Zrnovci
+Serbs,2,1,1,Zrnovci
+Bosniaks,0,0,0,Zrnovci
+Other,14,6,8,Zrnovci
+Undeclared,0,0,0,Zrnovci
+Unknown,0,0,0,Zrnovci
+Admin,80,38,42,Zrnovci
+Total,17435,8776,8659,Ilinden
+Macedonians,14758,7354,7404,Ilinden
+Albanians,367,189,178,Ilinden
+Turks,4,1,3,Ilinden
+Roma,476,257,219,Ilinden
+Vlachs,8,1,7,Ilinden
+Serbs,628,370,258,Ilinden
+Bosniaks,8,4,4,Ilinden
+Other,126,65,61,Ilinden
+Undeclared,7,5,2,Ilinden
+Unknown,3,1,2,Ilinden
+Admin,1050,529,521,Ilinden
+Total,8895,4503,4392,Jegunovce
+Macedonians,4746,2415,2331,Jegunovce
+Albanians,3482,1742,1740,Jegunovce
+Turks,0,0,0,Jegunovce
+Roma,49,28,21,Jegunovce
+Vlachs,0,0,0,Jegunovce
+Serbs,89,48,41,Jegunovce
+Bosniaks,0,0,0,Jegunovce
+Other,11,6,5,Jegunovce
+Undeclared,0,0,0,Jegunovce
+Unknown,0,0,0,Jegunovce
+Admin,518,264,254,Jegunovce
+Total,35733,17908,17825,Kavadarci
+Macedonians,32012,15968,16044,Kavadarci
+Albanians,30,3,27,Kavadarci
+Turks,134,65,69,Kavadarci
+Roma,729,396,333,Kavadarci
+Vlachs,29,15,14,Kavadarci
+Serbs,125,65,60,Kavadarci
+Bosniaks,9,4,5,Kavadarci
+Other,213,117,96,Kavadarci
+Undeclared,2,1,1,Kavadarci
+Unknown,22,16,6,Kavadarci
+Admin,2428,1258,1170,Kavadarci
+Total,3420,1746,1674,Karbinci
+Macedonians,2159,1106,1053,Karbinci
+Albanians,0,0,0,Karbinci
+Turks,857,427,430,Karbinci
+Roma,15,7,8,Karbinci
+Vlachs,10,5,5,Karbinci
+Serbs,7,4,3,Karbinci
+Bosniaks,0,0,0,Karbinci
+Other,4,3,1,Karbinci
+Undeclared,0,0,0,Karbinci
+Unknown,0,0,0,Karbinci
+Admin,368,194,174,Karbinci
+Total,39669,20014,19655,Kichevo
+Macedonians,16020,8144,7876,Kichevo
+Albanians,16373,8171,8202,Kichevo
+Turks,2553,1280,1273,Kichevo
+Roma,2003,1028,975,Kichevo
+Vlachs,70,40,30,Kichevo
+Serbs,60,35,25,Kichevo
+Bosniaks,13,3,10,Kichevo
+Other,166,87,79,Kichevo
+Undeclared,1,1,0,Kichevo
+Unknown,5,1,4,Kichevo
+Admin,2405,1224,1181,Kichevo
+Total,2725,1437,1288,Konche
+Macedonians,1947,1046,901,Konche
+Albanians,3,0,3,Konche
+Turks,606,302,304,Konche
+Roma,0,0,0,Konche
+Vlachs,0,0,0,Konche
+Serbs,1,1,0,Konche
+Bosniaks,1,0,1,Konche
+Other,1,1,0,Konche
+Undeclared,0,0,0,Konche
+Unknown,0,0,0,Konche
+Admin,166,87,79,Konche
+Total,31602,15625,15977,Kochani
+Macedonians,26798,13156,13642,Kochani
+Albanians,15,1,14,Kochani
+Turks,138,69,69,Kochani
+Roma,1892,974,918,Kochani
+Vlachs,170,85,85,Kochani
+Serbs,37,21,16,Kochani
+Bosniaks,14,10,4,Kochani
+Other,136,76,60,Kochani
+Undeclared,2,1,1,Kochani
+Unknown,1,0,1,Kochani
+Admin,2399,1232,1167,Kochani
+Total,7545,3901,3644,Kratovo
+Macedonians,6961,3566,3395,Kratovo
+Albanians,8,0,8,Kratovo
+Turks,0,0,0,Kratovo
+Roma,100,55,45,Kratovo
+Vlachs,1,0,1,Kratovo
+Serbs,14,8,6,Kratovo
+Bosniaks,0,0,0,Kratovo
+Other,23,8,15,Kratovo
+Undeclared,0,0,0,Kratovo
+Unknown,1,1,0,Kratovo
+Admin,437,263,174,Kratovo
+Total,18059,9302,8757,Kriva Palanka
+Macedonians,16675,8565,8110,Kriva Palanka
+Albanians,7,1,6,Kriva Palanka
+Turks,6,3,3,Kriva Palanka
+Roma,447,232,215,Kriva Palanka
+Vlachs,5,1,4,Kriva Palanka
+Serbs,66,32,34,Kriva Palanka
+Bosniaks,2,0,2,Kriva Palanka
+Other,83,43,40,Kriva Palanka
+Undeclared,0,0,0,Kriva Palanka
+Unknown,4,3,1,Kriva Palanka
+Admin,764,422,342,Kriva Palanka
+Total,5167,2716,2451,Krivogashtani
+Macedonians,5021,2641,2380,Krivogashtani
+Albanians,7,1,6,Krivogashtani
+Turks,0,0,0,Krivogashtani
+Roma,4,2,2,Krivogashtani
+Vlachs,1,0,1,Krivogashtani
+Serbs,7,2,5,Krivogashtani
+Bosniaks,1,0,1,Krivogashtani
+Other,14,9,5,Krivogashtani
+Undeclared,1,1,0,Krivogashtani
+Unknown,0,0,0,Krivogashtani
+Admin,111,60,51,Krivogashtani
+Total,8385,4276,4109,Krushevo
+Macedonians,4316,2149,2167,Krushevo
+Albanians,2464,1295,1169,Krushevo
+Turks,283,156,127,Krushevo
+Roma,0,0,0,Krushevo
+Vlachs,867,466,401,Krushevo
+Serbs,10,1,9,Krushevo
+Bosniaks,108,54,54,Krushevo
+Other,33,15,18,Krushevo
+Undeclared,2,1,1,Krushevo
+Unknown,0,0,0,Krushevo
+Admin,302,139,163,Krushevo
+Total,98104,48805,49299,Kumanovo
+Macedonians,54741,26874,27867,Kumanovo
+Albanians,25493,12596,12897,Kumanovo
+Turks,143,84,59,Kumanovo
+Roma,2795,1414,1381,Kumanovo
+Vlachs,117,51,66,Kumanovo
+Serbs,6392,3482,2910,Kumanovo
+Bosniaks,38,17,21,Kumanovo
+Other,700,422,278,Kumanovo
+Undeclared,24,17,7,Kumanovo
+Unknown,45,27,18,Kumanovo
+Admin,7616,3821,3795,Kumanovo
+Total,22308,11104,11204,Lipkovo
+Macedonians,33,19,14,Lipkovo
+Albanians,21560,10751,10809,Lipkovo
+Turks,1,1,0,Lipkovo
+Roma,0,0,0,Lipkovo
+Vlachs,0,0,0,Lipkovo
+Serbs,4,1,3,Lipkovo
+Bosniaks,4,1,3,Lipkovo
+Other,5,2,3,Lipkovo
+Undeclared,0,0,0,Lipkovo
+Unknown,0,0,0,Lipkovo
+Admin,701,329,372,Lipkovo
+Total,2264,1211,1053,Lozovo
+Macedonians,1887,1011,876,Lozovo
+Albanians,20,9,11,Lozovo
+Turks,203,109,94,Lozovo
+Roma,0,0,0,Lozovo
+Vlachs,42,21,21,Lozovo
+Serbs,20,10,10,Lozovo
+Bosniaks,17,9,8,Lozovo
+Other,5,4,1,Lozovo
+Undeclared,0,0,0,Lozovo
+Unknown,0,0,0,Lozovo
+Admin,70,38,32,Lozovo
+Total,5042,2486,2556,Mavrovo and Rostusha
+Macedonians,1474,769,705,Mavrovo and Rostusha
+Albanians,470,227,243,Mavrovo and Rostusha
+Turks,1555,755,800,Mavrovo and Rostusha
+Roma,3,2,1,Mavrovo and Rostusha
+Vlachs,2,0,2,Mavrovo and Rostusha
+Serbs,6,4,2,Mavrovo and Rostusha
+Bosniaks,35,17,18,Mavrovo and Rostusha
+Other,1073,507,566,Mavrovo and Rostusha
+Undeclared,18,11,7,Mavrovo and Rostusha
+Unknown,1,0,1,Mavrovo and Rostusha
+Admin,405,194,211,Mavrovo and Rostusha
+Total,6439,3335,3104,Makedonska Kamenica
+Macedonians,5975,3089,2886,Makedonska Kamenica
+Albanians,6,0,6,Makedonska Kamenica
+Turks,2,1,1,Makedonska Kamenica
+Roma,0,0,0,Makedonska Kamenica
+Vlachs,0,0,0,Makedonska Kamenica
+Serbs,9,5,4,Makedonska Kamenica
+Bosniaks,9,4,5,Makedonska Kamenica
+Other,14,7,7,Makedonska Kamenica
+Undeclared,0,0,0,Makedonska Kamenica
+Unknown,1,1,0,Makedonska Kamenica
+Admin,423,228,195,Makedonska Kamenica
+Total,5889,3055,2834,Makedonski Brod
+Macedonians,5367,2805,2562,Makedonski Brod
+Albanians,38,0,38,Makedonski Brod
+Turks,241,122,119,Makedonski Brod
+Roma,18,10,8,Makedonski Brod
+Vlachs,0,0,0,Makedonski Brod
+Serbs,10,6,4,Makedonski Brod
+Bosniaks,1,0,1,Makedonski Brod
+Other,8,2,6,Makedonski Brod
+Undeclared,2,1,1,Makedonski Brod
+Unknown,0,0,0,Makedonski Brod
+Admin,204,109,95,Makedonski Brod
+Total,5283,2760,2523,Mogila
+Macedonians,4632,2431,2201,Mogila
+Albanians,73,27,46,Mogila
+Turks,266,145,121,Mogila
+Roma,15,7,8,Mogila
+Vlachs,2,1,1,Mogila
+Serbs,1,0,1,Mogila
+Bosniaks,0,0,0,Mogila
+Other,37,16,21,Mogila
+Undeclared,1,0,1,Mogila
+Unknown,0,0,0,Mogila
+Admin,256,133,123,Mogila
+Total,18194,9149,9045,Negotino
+Macedonians,15698,7833,7865,Negotino
+Albanians,42,17,25,Negotino
+Turks,349,185,164,Negotino
+Roma,493,250,243,Negotino
+Vlachs,14,9,5,Negotino
+Serbs,344,208,136,Negotino
+Bosniaks,1,0,1,Negotino
+Other,252,142,110,Negotino
+Undeclared,0,0,0,Negotino
+Unknown,3,2,1,Negotino
+Admin,998,503,495,Negotino
+Total,2648,1377,1271,Novaci
+Macedonians,2427,1266,1161,Novaci
+Albanians,46,17,29,Novaci
+Turks,1,1,0,Novaci
+Roma,0,0,0,Novaci
+Vlachs,0,0,0,Novaci
+Serbs,4,3,1,Novaci
+Bosniaks,0,0,0,Novaci
+Other,14,9,5,Novaci
+Undeclared,1,1,0,Novaci
+Unknown,1,0,1,Novaci
+Admin,154,80,74,Novaci
+Total,6972,3503,3469,Novo Selo
+Macedonians,6380,3205,3175,Novo Selo
+Albanians,5,0,5,Novo Selo
+Turks,0,0,0,Novo Selo
+Roma,0,0,0,Novo Selo
+Vlachs,0,0,0,Novo Selo
+Serbs,6,1,5,Novo Selo
+Bosniaks,0,0,0,Novo Selo
+Other,14,5,9,Novo Selo
+Undeclared,0,0,0,Novo Selo
+Unknown,0,0,0,Novo Selo
+Admin,567,292,275,Novo Selo
+Total,51428,25231,26197,Ohrid
+Macedonians,40488,19903,20585,Ohrid
+Albanians,1942,921,1021,Ohrid
+Turks,1831,890,941,Ohrid
+Roma,232,100,132,Ohrid
+Vlachs,314,157,157,Ohrid
+Serbs,281,131,150,Ohrid
+Bosniaks,23,10,13,Ohrid
+Other,2008,1006,1002,Ohrid
+Undeclared,13,9,4,Ohrid
+Unknown,7,4,3,Ohrid
+Admin,4289,2100,2189,Ohrid
+Total,9150,4613,4537,Petrovec
+Macedonians,4609,2295,2314,Petrovec
+Albanians,1676,861,815,Petrovec
+Turks,116,61,55,Petrovec
+Roma,54,27,27,Petrovec
+Vlachs,2,0,2,Petrovec
+Serbs,327,179,148,Petrovec
+Bosniaks,1701,869,832,Petrovec
+Other,63,33,30,Petrovec
+Undeclared,0,0,0,Petrovec
+Unknown,2,1,1,Petrovec
+Admin,600,287,313,Petrovec
+Total,3983,2024,1959,Pehchevo
+Macedonians,3233,1632,1601,Pehchevo
+Albanians,1,0,1,Pehchevo
+Turks,280,148,132,Pehchevo
+Roma,256,136,120,Pehchevo
+Vlachs,1,0,1,Pehchevo
+Serbs,10,2,8,Pehchevo
+Bosniaks,1,1,0,Pehchevo
+Other,32,21,11,Pehchevo
+Undeclared,0,0,0,Pehchevo
+Unknown,0,0,0,Pehchevo
+Admin,169,84,85,Pehchevo
+Total,4222,2122,2100,Plasnica
+Macedonians,9,4,5,Plasnica
+Albanians,13,1,12,Plasnica
+Turks,4101,2070,2031,Plasnica
+Roma,0,0,0,Plasnica
+Vlachs,0,0,0,Plasnica
+Serbs,0,0,0,Plasnica
+Bosniaks,1,0,1,Plasnica
+Other,0,0,0,Plasnica
+Undeclared,0,0,0,Plasnica
+Unknown,1,1,0,Plasnica
+Admin,97,46,51,Plasnica
+Total,69025,34208,34817,Prilep
+Macedonians,58349,28755,29594,Prilep
+Albanians,127,25,102,Prilep
+Turks,1060,547,513,Prilep
+Roma,3966,2048,1918,Prilep
+Vlachs,30,11,19,Prilep
+Serbs,113,59,54,Prilep
+Bosniaks,117,64,53,Prilep
+Other,284,150,134,Prilep
+Undeclared,9,5,4,Prilep
+Unknown,11,7,4,Prilep
+Admin,4959,2537,2422,Prilep
+Total,13417,6814,6603,Probishtip
+Macedonians,12617,6401,6216,Probishtip
+Albanians,8,0,8,Probishtip
+Turks,2,2,0,Probishtip
+Roma,104,52,52,Probishtip
+Vlachs,21,10,11,Probishtip
+Serbs,56,31,25,Probishtip
+Bosniaks,1,0,1,Probishtip
+Other,65,37,28,Probishtip
+Undeclared,0,0,0,Probishtip
+Unknown,0,0,0,Probishtip
+Admin,543,281,262,Probishtip
+Total,24122,12137,11985,Radovish
+Macedonians,17278,8649,8629,Radovish
+Albanians,24,11,13,Radovish
+Turks,4013,2071,1942,Radovish
+Roma,261,139,122,Radovish
+Vlachs,14,6,8,Radovish
+Serbs,25,14,11,Radovish
+Bosniaks,2,1,1,Radovish
+Other,70,39,31,Radovish
+Undeclared,3,2,1,Radovish
+Unknown,1,1,0,Radovish
+Admin,2431,1204,1227,Radovish
+Total,3465,1828,1637,Rankovce
+Macedonians,3055,1616,1439,Rankovce
+Albanians,0,0,0,Rankovce
+Turks,1,0,1,Rankovce
+Roma,143,76,67,Rankovce
+Vlachs,0,0,0,Rankovce
+Serbs,14,7,7,Rankovce
+Bosniaks,0,0,0,Rankovce
+Other,5,3,2,Rankovce
+Undeclared,0,0,0,Rankovce
+Unknown,0,0,0,Rankovce
+Admin,247,126,121,Rankovce
+Total,14373,7190,7183,Resen
+Macedonians,10130,5092,5038,Resen
+Albanians,1381,663,718,Resen
+Turks,1457,736,721,Resen
+Roma,314,150,164,Resen
+Vlachs,44,25,19,Resen
+Serbs,70,34,36,Resen
+Bosniaks,12,6,6,Resen
+Other,251,125,126,Resen
+Undeclared,1,0,1,Resen
+Unknown,2,0,2,Resen
+Admin,711,359,352,Resen
+Total,3796,1952,1844,Rosoman
+Macedonians,3365,1713,1652,Rosoman
+Albanians,5,0,5,Rosoman
+Turks,0,0,0,Rosoman
+Roma,35,18,17,Rosoman
+Vlachs,4,2,2,Rosoman
+Serbs,253,149,104,Rosoman
+Bosniaks,0,0,0,Rosoman
+Other,25,16,9,Rosoman
+Undeclared,0,0,0,Rosoman
+Unknown,0,0,0,Rosoman
+Admin,109,54,55,Rosoman
+Total,15320,7841,7479,Sveti Nikole
+Macedonians,14170,7256,6914,Sveti Nikole
+Albanians,10,0,10,Sveti Nikole
+Turks,57,28,29,Sveti Nikole
+Roma,45,16,29,Sveti Nikole
+Vlachs,134,63,71,Sveti Nikole
+Serbs,33,9,24,Sveti Nikole
+Bosniaks,1,0,1,Sveti Nikole
+Other,47,30,17,Sveti Nikole
+Undeclared,0,0,0,Sveti Nikole
+Unknown,6,5,1,Sveti Nikole
+Admin,817,434,383,Sveti Nikole
+Total,6713,3423,3290,Sopishte
+Macedonians,4045,2059,1986,Sopishte
+Albanians,1693,869,824,Sopishte
+Turks,463,237,226,Sopishte
+Roma,1,1,0,Sopishte
+Vlachs,19,10,9,Sopishte
+Serbs,49,29,20,Sopishte
+Bosniaks,0,0,0,Sopishte
+Other,32,17,15,Sopishte
+Undeclared,0,0,0,Sopishte
+Unknown,1,0,1,Sopishte
+Admin,410,201,209,Sopishte
+Total,3501,1902,1599,Staro Nagorichane
+Macedonians,2513,1349,1164,Staro Nagorichane
+Albanians,13,1,12,Staro Nagorichane
+Turks,0,0,0,Staro Nagorichane
+Roma,3,1,2,Staro Nagorichane
+Vlachs,0,0,0,Staro Nagorichane
+Serbs,585,338,247,Staro Nagorichane
+Bosniaks,0,0,0,Staro Nagorichane
+Other,9,5,4,Staro Nagorichane
+Undeclared,0,0,0,Staro Nagorichane
+Unknown,0,0,0,Staro Nagorichane
+Admin,378,208,170,Staro Nagorichane
+Total,50980,25355,25625,Struga
+Macedonians,14900,7366,7534,Struga
+Albanians,25785,12912,12873,Struga
+Turks,3472,1649,1823,Struga
+Roma,177,92,85,Struga
+Vlachs,492,286,206,Struga
+Serbs,68,41,27,Struga
+Bosniaks,95,48,47,Struga
+Other,2420,1217,1203,Struga
+Undeclared,27,13,14,Struga
+Unknown,14,9,5,Struga
+Admin,3530,1722,1808,Struga
+Total,49995,24701,25294,Strumica
+Macedonians,38949,19094,19855,Strumica
+Albanians,22,4,18,Strumica
+Turks,3927,2006,1921,Strumica
+Roma,218,112,106,Strumica
+Vlachs,10,4,6,Strumica
+Serbs,99,51,48,Strumica
+Bosniaks,3,0,3,Strumica
+Other,268,144,124,Strumica
+Undeclared,12,2,10,Strumica
+Unknown,7,3,4,Strumica
+Admin,6480,3281,3199,Strumica
+Total,21970,11245,10725,Studenichani
+Macedonians,437,213,224,Studenichani
+Albanians,14982,7673,7309,Studenichani
+Turks,3231,1652,1579,Studenichani
+Roma,46,27,19,Studenichani
+Vlachs,4,1,3,Studenichani
+Serbs,14,7,7,Studenichani
+Bosniaks,1637,822,815,Studenichani
+Other,81,47,34,Studenichani
+Undeclared,1,1,0,Studenichani
+Unknown,3,3,0,Studenichani
+Admin,1534,799,735,Studenichani
+Total,17694,8851,8843,Tearce
+Macedonians,2114,1078,1036,Tearce
+Albanians,14704,7351,7353,Tearce
+Turks,382,206,176,Tearce
+Roma,50,23,27,Tearce
+Vlachs,0,0,0,Tearce
+Serbs,22,10,12,Tearce
+Bosniaks,0,0,0,Tearce
+Other,22,11,11,Tearce
+Undeclared,0,0,0,Tearce
+Unknown,2,1,1,Tearce
+Admin,398,171,227,Tearce
+Total,84770,41663,43107,Tetovo
+Macedonians,15529,7513,8016,Tetovo
+Albanians,60460,29858,30602,Tetovo
+Turks,1746,835,911,Tetovo
+Roma,1885,961,924,Tetovo
+Vlachs,11,5,6,Tetovo
+Serbs,256,138,118,Tetovo
+Bosniaks,189,82,107,Tetovo
+Other,303,142,161,Tetovo
+Undeclared,16,12,4,Tetovo
+Unknown,7,4,3,Tetovo
+Admin,4368,2113,2255,Tetovo
+Total,3720,1842,1878,Centar Zhupa
+Macedonians,236,114,122,Centar Zhupa
+Albanians,187,93,94,Centar Zhupa
+Turks,2899,1449,1450,Centar Zhupa
+Roma,0,0,0,Centar Zhupa
+Vlachs,0,0,0,Centar Zhupa
+Serbs,0,0,0,Centar Zhupa
+Bosniaks,1,0,1,Centar Zhupa
+Other,42,20,22,Centar Zhupa
+Undeclared,0,0,0,Centar Zhupa
+Unknown,1,1,0,Centar Zhupa
+Admin,354,165,189,Centar Zhupa
+Total,7942,4083,3859,Chashka
+Macedonians,3071,1622,1449,Chashka
+Albanians,4032,1999,2033,Chashka
+Turks,373,202,171,Chashka
+Roma,0,0,0,Chashka
+Vlachs,1,0,1,Chashka
+Serbs,24,14,10,Chashka
+Bosniaks,35,16,19,Chashka
+Other,94,55,39,Chashka
+Undeclared,3,1,2,Chashka
+Unknown,7,4,3,Chashka
+Admin,302,170,132,Chashka
+Total,5471,2796,2675,Cheshinovo - Obleshevo
+Macedonians,5231,2675,2556,Cheshinovo - Obleshevo
+Albanians,7,0,7,Cheshinovo - Obleshevo
+Turks,0,0,0,Cheshinovo - Obleshevo
+Roma,0,0,0,Cheshinovo - Obleshevo
+Vlachs,8,3,5,Cheshinovo - Obleshevo
+Serbs,1,0,1,Cheshinovo - Obleshevo
+Bosniaks,0,0,0,Cheshinovo - Obleshevo
+Other,1,1,0,Cheshinovo - Obleshevo
+Undeclared,0,0,0,Cheshinovo - Obleshevo
+Unknown,0,0,0,Cheshinovo - Obleshevo
+Admin,223,117,106,Cheshinovo - Obleshevo
+Total,9200,4731,4469,Chucher - Sandevo
+Macedonians,5032,2446,2586,Chucher - Sandevo
+Albanians,1224,624,600,Chucher - Sandevo
+Turks,14,5,9,Chucher - Sandevo
+Roma,23,10,13,Chucher - Sandevo
+Vlachs,16,8,8,Chucher - Sandevo
+Serbs,1932,1118,814,Chucher - Sandevo
+Bosniaks,84,43,41,Chucher - Sandevo
+Other,106,57,49,Chucher - Sandevo
+Undeclared,4,1,3,Chucher - Sandevo
+Unknown,1,0,1,Chucher - Sandevo
+Admin,764,419,345,Chucher - Sandevo
+Total,44866,22251,22615,Shtip
+Macedonians,34752,16969,17783,Shtip
+Albanians,33,12,21,Shtip
+Turks,1334,713,621,Shtip
+Roma,2301,1207,1094,Shtip
+Vlachs,1584,833,751,Shtip
+Serbs,172,82,90,Shtip
+Bosniaks,12,4,8,Shtip
+Other,273,148,125,Shtip
+Undeclared,9,6,3,Shtip
+Unknown,11,5,6,Shtip
+Admin,4385,2272,2113,Shtip
