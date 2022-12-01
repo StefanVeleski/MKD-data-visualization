@@ -4,7 +4,7 @@ This repository contains a series of visualizations and analyses of data about N
 
 New visualizations are posted on Reddit every week (usually on Wednesday). Links to previous posts:
 
-[The ethnic makeup of Macedonia according to the 2021 census](https://www.reddit.com/r/mkd/comments/z9v20z/oc_етничка_структура_на_населението_според/?utm_source=share&utm_medium=web2x&context=3)
+[The ethnic makeup of Macedonia according to the 2021 census (December 1, 2022)](https://www.reddit.com/r/mkd/comments/z9v20z/oc_етничка_структура_на_населението_според/?utm_source=share&utm_medium=web2x&context=3)
 
 [Population change in Macedonia between 2002 and 2021 (November 23, 2022)](https://www.reddit.com/r/mkd/comments/z2wclr/oc_промена_на_населението_меѓу_двата_пописа_по/?utm_source=share&utm_medium=web2x&context=3)
 
