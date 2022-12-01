@@ -64,11 +64,11 @@ ethnicity_data$Percentage <- ethnicity_data$Total/ethnicity_data$`Total resident
 ethnicity_data$Percentage <- round(ethnicity_data$Percentage, 4)
 
 # Changing the Admin factor to "Census boycotters". Most of these are ethnic Macedonians. 
-ethnicity_data$Ethnicity <- recode_factor(ethnicity_data$Ethnicity, Admin = "Census boycotters")
+ethnicity_data$Ethnicity <- recode_factor(ethnicity_data$Ethnicity, Admin = "No data (undercount)")
 
 ethnicity_data <- ethnicity_data %>% 
   filter(!Ethnicity %in% c("Total", "Undeclared", "Unknown")) %>% # Remove unnecessary factor levels
-  mutate(across (Ethnicity, factor, levels = c("Macedonians", "Albanians", "Turks", "Roma", "Serbs", "Bosniaks", "Vlachs", "Other", "Census boycotters"))) # Arrange factor levels according to their size
+  mutate(across (Ethnicity, factor, levels = c("Macedonians", "Albanians", "Turks", "Roma", "Serbs", "Bosniaks", "Vlachs", "Other", "No data (undercount)"))) # Arrange factor levels according to their size
 
 p <- ggplot(ethnicity_data) +
   geom_sf(aes(text = paste0("Municipality: ", Municipality, "\nTotal population: ", Total), fill = Percentage, geometry = geometry)) + # Adding hover text and choosing a variable to determine the color
